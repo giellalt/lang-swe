@@ -1,0 +1,11 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+datadir=@datarootdir@
+gtlang=swe
+dir=${datadir}/giella/${gtlang}
+srcdir=${datadir}/giella/${gtlang}
+
+Name: giella-swe
+Description: Finite-state language processing tools for Swedish
+URL: http://divvun.no/doc/index.html
+Version: @VERSION@
