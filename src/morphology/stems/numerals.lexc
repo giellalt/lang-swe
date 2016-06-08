@@ -1,0 +1,8 @@
+
+LEXICON Numeral
+en num ;
+två num ;
+tre num ;
+
+LEXICON num
++Num: # ;

@@ -1,0 +1,27 @@
+
+LEXICON Pronoun
+
+Personal ;
+!Reflexive ;
+!Indefinite ;
+!Interrogative ;
+!Reciprocal ;
+
+LEXICON Personal 
+ jag+Pron+Pers+Sg1+Nom:jag # ;
+ jag+Pron+Pers+Sg1+Acc:mig # ;
+  du+Pron+Pers+Sg2+Nom:du # ;
+  du+Pron+Pers+Sg2+Acc:dig # ;
+ han+Pron+Pers+Sg3+Nom:han # ;
+ hon+Pron+Pers+Sg3+Nom:hon # ;
+ han+Pron+Pers+Sg3+Acc:han # ;
+ han+Pron+Pers+Sg3+Acc:honom # ;
+ hun+Pron+Pers+Sg3+Acc:hon # ;
+ den+Pron+Pers+Sg3:den # ; ! Gender? -- no, only as Det Dem (?)
+ det+Pron+Pers+Sg3:det # ; ! Gender? -- no, only as Det Dem (?)
+  vi+Pron+Pers+Pl1+Nom:vi # ;
+  vi+Pron+Pers+Pl1+Acc:oss # ;
+  ni+Pron+Pers+Pl2+Nom:ni # ;
+  ni+Pron+Pers+Pl2+Acc:er # ;
+  de+Pron+Pers+Pl3+Nom:de # ;
+  de+Pron+Pers+Pl3+Acc:dem # ;

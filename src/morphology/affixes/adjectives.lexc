@@ -1,0 +1,24 @@
+
+LEXICON ac
++A+Utr+Sg+Indef: # ;
++A+Neu+Sg+Indef:t # ;
+adjobl ;
+
+LEXICON ac
++A+Utr+Sg+Indef: # ;
++A+Neu+Sg+Indef:t # ;
+adjobl ;
+
+LEXICON a1
++A+Utr+Sg+Indef: # ;
++A+Neu+Sg+Indef:tt # ;
+adjobl ;
+
+LEXICON adjobl
++A+Utr+Sg+Def:a # ;
++A+Utr+Pl+Indef:a # ;
++A+Utr+Pl+Def:a # ;
++A+Neu+Sg+Indef:t # ;
++A+Neu+Sg+Def:a # ;
++A+Neu+Pl+Indef:a # ;
++A+Neu+Pl+Def:a # ;
