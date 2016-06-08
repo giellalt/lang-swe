@@ -1,0 +1,45 @@
+
+LEXICON u1
++N+Utr+Sg+Indef:a K ;
++N+Utr+Sg+Def:an K ;
++N+Utr+Pl+Indef:or K ;
++N+Utr+Pl+Def:orna K ;
+
+LEXICON u2
++N+Utr+Sg+Indef: K ;
++N+Utr+Sg+Def:en K ;
++N+Utr+Pl+Indef:ar K ;
++N+Utr+Pl+Def:arna K ;
+
+
+
+LEXICON u2
++N+Utr+Sg+Indef: K ;
++N+Utr+Sg+Def:en K ;
++N+Utr+Pl+Indef:er K ;
++N+Utr+Pl+Def:erna K ;
+
+
+LEXICON n4
++N+Neu+Sg+Indef: K ;
++N+Neu+Sg+Def:t K ;
++N+Neu+Pl+Indef:t K ;
++N+Neu+Pl+Def:rna K ;
+
+
+LEXICON n5
++N+Neu+Sg+Indef: K ;
++N+Neu+Sg+Def:et K ;
++N+Neu+Pl+Indef: K ;
++N+Neu+Pl+Def:en K ;
+
+
+LEXICON u5
++N+Utr+Sg+Indefe: K ;
++N+Utr+Sg+Def:en K ;
++N+Utr+Pl+Indef:e K ;
++N+Utr+Pl+Def:na K ;
+
+LEXICON K
+# ;
++Clt:s # ;
