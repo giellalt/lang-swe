@@ -1,12 +1,12 @@
 
 LEXICON ac
 +A+Utr+Sg+Indef: # ;
-+A+Neu+Sg+Indef:t # ;
++A+Neu+Sg+Indef: # ;
 adjobl ;
 
-LEXICON ac
+LEXICON av
 +A+Utr+Sg+Indef: # ;
-+A+Neu+Sg+Indef:t # ;
++A+Neu+Sg+Indef:tt # ;
 adjobl ;
 
 LEXICON a1

@@ -13,7 +13,7 @@ LEXICON u2
 
 
 
-LEXICON u2
+LEXICON u3
 +N+Utr+Sg+Indef: K ;
 +N+Utr+Sg+Def:en K ;
 +N+Utr+Pl+Indef:er K ;
@@ -39,7 +39,3 @@ LEXICON u5
 +N+Utr+Sg+Def:en K ;
 +N+Utr+Pl+Indef:e K ;
 +N+Utr+Pl+Def:na K ;
-
-LEXICON K
-# ;
-+Clt:s # ;
