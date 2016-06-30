@@ -51,19 +51,11 @@ Basic lexica, pointing to the other lexicon files
 
  * LEXICON Root 
  *  NounRoot ;		  
- * ! ProperNoun ;	  
  *  AdjectiveRoot ;  
  *  VerbRoot ;		  
- * ! Adverb ;		  
- * ! Subjunction ;	  
- * ! Conjunction ;	  
- * ! Preposition ;	  
- * ! Interjection ;	  
  *  Pronoun ;		  
- * ! Determiner ;	  
  *  Numeral ;		  
  *  Punctuation ;	  
- * ! Abbreviation ;	  
 
 
 
