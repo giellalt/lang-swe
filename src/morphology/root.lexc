@@ -101,6 +101,7 @@ LEXICON Root !!= * @CODE@
 ! Determiner ;	  !!= * @CODE@
  Numeral ;		  !!= * @CODE@
  Punctuation ;	  !!= * @CODE@
+ Symbols     ;
 ! Abbreviation ;	  !!= * @CODE@
 
 ! Particle ;
