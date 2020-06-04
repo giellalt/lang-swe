@@ -1,0 +1,9 @@
+name = "Swedish"
+version = "0.1.0"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.sv"
+
+[windows]
+system_product_code = "1D7005F8-D195-4760-8F46-646D2AD64BB9"
+msoffice_product_code = "F8B27250-9843-4E98-998E-D5E544CFC2AF"
