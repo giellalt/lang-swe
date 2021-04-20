@@ -12,8 +12,9 @@ authors named in the AUTHORS file are available to grant other licencing
 choices.
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/issues)
- [![Build Status](https://github.com/giellalt/lang-swe/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-swe/actions)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) OR
+[![Build Status](https://github.com/giellalt/lang-swe/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-swe/actions)
+[![License](https://img.shields.io/github/license/giellalt/template-lang-swe)](https://raw.githubusercontent.com/giellalt/lang-swe/develop/LICENSE)
+OR
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-swe)
