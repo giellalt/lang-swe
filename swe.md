@@ -1,4 +1,11 @@
 
+# Symbol affixes
+
+
+
+
+
+
 # Swedish morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Swedish
 
@@ -54,6 +61,60 @@ Basic lexica, pointing to the other lexicon files
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
