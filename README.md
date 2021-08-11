@@ -3,7 +3,7 @@ The Swedish morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/issues)
 [![Build Status](https://github.com/giellalt/lang-swe/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-swe/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-swe)](https://raw.githubusercontent.com/giellalt/lang-swe/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/blob/main/LICENSE)
 OR
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
