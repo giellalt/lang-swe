@@ -607,14 +607,6 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-swe/blob/main/../src/cg3/functions.cg3)</small>
-# Symbol affixes
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-swe/blob/main/../src/fst/affixes/symbols.lexc)</small>
 # Swedish morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Swedish
 
@@ -673,6 +665,14 @@ Basic lexica, pointing to the other lexicon files
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-swe/blob/main/../src/fst/root.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-swe/blob/main/../src/fst/affixes/symbols.lexc)</small>
 
 
 We describe here how abbreviations are in Swedish are read out, e.g.
