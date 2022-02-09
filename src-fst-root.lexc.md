@@ -2,11 +2,8 @@
 # Swedish morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Swedish
 
-
-
 * Multichar_Symbols 
 * +Symbol = independent symbols in the text stream, like £, €, ©
-
 
 ## Flag diacritics
 We have manually optimised the structure of our lexicon using following
@@ -46,14 +43,9 @@ Basic lexica, pointing to the other lexicon files
 *  Numeral ;		  
 *  Punctuation ;	  
 
-
-
-
-
-
-
-
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-swe/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-swe/blob/main/src/fst/root.lexc)</small>
+
+---
+
