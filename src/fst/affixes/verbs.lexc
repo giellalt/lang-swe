@@ -1,22 +1,22 @@
 
 LEXICON v1
-+Inf:a # ;
-+Ind+Prs:ar # ;
-+Ind+Prt:ade # ;
-+Sup:at # ;
-+PrfPtc:t # ;
++Inf:%>a # ;
++Ind+Prs:%>ar # ;
++Ind+Prt:%>ade # ;
++Sup:%>at # ;
++PrfPtc:%>t # ;
 
 LEXICON v2
-+Inf:a # ;
-+Ind+Prs:er # ;
-+Ind+Prt:de # ; ! te after unvoiced
-+Sup:t # ;
-+PrfPtc:d # ;
++Inf:%>a # ;
++Ind+Prs:%>er # ;
++Ind+Prt:%>de # ; ! te after unvoiced
++Sup:%>t # ;
++PrfPtc:%>d # ;
 
 LEXICON v3
 +Inf: # ;
-+Ind+Prs:r # ;
-+Ind+Prt:dde # ;
-+Sup:tt # ;
-+PrfPtc:dd # ;
++Ind+Prs:%>r # ;
++Ind+Prt:%>dde # ;
++Sup:%>tt # ;
++PrfPtc:%>dd # ;
 
