@@ -1,0 +1,21 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Verb - antaa - ok : # Verb 'to live' - ei tsekattu!
+     flicka+N+Utr+Sg+Indef: flicka
+     flicka+N+Utr+Sg+Def: flickan
+     flicka+N+Utr+Pl+Indef: flickor
+     flicka+N+Utr+Pl+Def: flickorna
