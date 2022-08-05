@@ -19,25 +19,27 @@ fi
 
 ######### USER Variables - change these to your liking: #########
 # Codes for the word forms to be generated - list as many or few as needed:
-morf_codes="+N+Sg+Nom \
-            +N+Sg+Gen \
-            +N+Sg+Ill \
-            +N+Sg+Com \
-            +N+Pl+Nom \
-            +N+Pl+Com \
-            +N+Ess"
+morf_codes="+N+Neu+Sg+Indef \
+            +N+Neu+Sg+Def \
+            +N+Neu+Pl+Indef \
+            +N+Neu+Pl+Def \
+	    +N+Neu+Sg+Indef+Clt \
+            +N+Neu+Sg+Def+Clt \
+            +N+Neu+Pl+Indef+Clt \
+            +N+Neu+Pl+Def+Clt"
 
 # Lexicon source file for lexicons and lemmas:
 source_file=src/fst/stems/nouns.lexc
 
 # Lexicons that should NOT be used to extract lemmas (egrep expression):
-exception_lexicons="(flagK)"
+#exception_lexicons="(flagK)"
+exception_lexicons="\bu"
 
 # FST used for generation, MINUS suffix:
 generator_file=src/generator-gt-norm
 
 # How many lemmas maximally for each lexicon:
-lemmacount=10
+lemmacount=1
 
 # Specify path to the dir containing the script used for generation:
 script_dir=$giella_core/scripts
