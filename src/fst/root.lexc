@@ -13,14 +13,20 @@
 ! giellatekno@uit.no or feedback@divvun.no
 
 ! ========================================================================== !
-!! # Swedish morphological analyser                      !
+!!# Swedish morphological analyser                      !
 ! ========================================================================== !
 !! INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Swedish
  
 
-! This file has just been copied from nob
+!! This file has just been copied from nob
 
 Multichar_Symbols !!= * @CODE@
+
+
+
+
+!! ## The central tags
+
  +N +A +Adv +V
  +CS +CC +Interj +Pcle +Pr +IM
  +Pers +Dem +Interr +Refl +Recipr +Rel +Qnt
@@ -44,6 +50,52 @@ Multichar_Symbols !!= * @CODE@
  +Qnt ! quantifier noen, begge
  +Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
 
++v1 +v2 !!≈ * @CODE@ tags for different paradigms of homonym lemma
+
++ABBR
++ACR
++Arab
++Attr
++CLBfinal
++CmpNP/First
++CmpNP/None
++Coll
++MWE
++Num
++Ord
++Rom
+
+
+!! ## Sámi case tags to be removed
++Com
++Ela
++Ess
++Gen
++Ill
++Ine
+
+
+!! ## Error tags
+
++Err/Hyph
++Err/Lex
++Err/MissingSpace
++Err/Orth
++Err/SpaceCmp
+
+!! ## Use tags
+
++Use/-PLX
++Use/-PMatch
++Use/-Spell
++Use/Circ
++Use/GC
++Use/NG
++Use/PMatch
++Use/SpellNoSugg
+
+
+!! ## These tags nob-specific, probably not needed in swe
  +X ! denoting not-checked.
  +1 +2 +3
 X1 X2 X3 X4 X5 X6 X7 X8 X9
@@ -53,6 +105,65 @@ e2 ! for some +N+Neu suffices starting e-
  Z1 Z2 Z3 Z4 Z5 Z6 Z7 Z8 Z9
  l7 ! always l
  %^NYNAG ! Nynorsk agens lærar / lærer
+
+
+
+!! ## Semantic tags
+
++Sem/Amount
++Sem/Build
++Sem/Build-room
++Sem/Cat
++Sem/Curr
++Sem/Date
++Sem/Domain
++Sem/Domain_Hum
++Sem/Dummytag
++Sem/Edu
++Sem/Edu_Hum
++Sem/Event
++Sem/Food-med
++Sem/Group_Hum
++Sem/Hum
++Sem/ID
++Sem/Lang
++Sem/Mat
++Sem/Measr
++Sem/Money
++Sem/Obj
++Sem/Obj-el
++Sem/Obj-ling
++Sem/Org_Prod-audio
++Sem/Org_Prod-vis
++Sem/Part
++Sem/Prod-vis
++Sem/Route
++Sem/Rule
++Sem/Sign
++Sem/State
++Sem/State-sick
++Sem/Substnc
++Sem/Sur
++Sem/Time
++Sem/Time-clock
++Sem/Tool-it
++Sem/Txt
++Sem/Veh
++Sem/Year
+
+
+!! ## Language tags
+
++OLang/ENG
++OLang/FIN
++OLang/NNO
++OLang/NOB
++OLang/RUS
++OLang/SMA
++OLang/SME
++OLang/SWE
++OLang/UND
+
 
 !! ## Flag diacritics
 !! We have manually optimised the structure of our lexicon using following
