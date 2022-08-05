@@ -1,11 +1,11 @@
 
-LEXICON u1
+LEXICON u1     ! lampa
 +N+Utr+Sg+Indef:%>a K ;
 +N+Utr+Sg+Def:%>an K ;
 +N+Utr+Pl+Indef:%>or K ;
 +N+Utr+Pl+Def:%>orna K ;
 
-LEXICON u2
+LEXICON u2     ! båt
 +N+Utr+Sg+Indef: K ;
 +N+Utr+Sg+Def:%>en K ;
 +N+Utr+Pl+Indef:%>ar K ;
@@ -13,29 +13,61 @@ LEXICON u2
 
 
 
-LEXICON u3
+LEXICON u3     ! gäst
 +N+Utr+Sg+Indef: K ;
 +N+Utr+Sg+Def:%>en K ;
 +N+Utr+Pl+Indef:%>er K ;
 +N+Utr+Pl+Def:%>erna K ;
 
 
-LEXICON n4
+LEXICON n4     ! ställe
 +N+Neu+Sg+Indef: K ;
 +N+Neu+Sg+Def:%>t K ;
-+N+Neu+Pl+Indef:%>t K ;
-+N+Neu+Pl+Def:%>rna K ;
++N+Neu+Pl+Indef:%>n K ;
++N+Neu+Pl+Def:%>na K ;
 
 
-LEXICON n5
+LEXICON n5     ! barn
 +N+Neu+Sg+Indef: K ;
 +N+Neu+Sg+Def:%>et K ;
 +N+Neu+Pl+Indef: K ;
 +N+Neu+Pl+Def:%>en K ;
 
 
-LEXICON u5
+LEXICON n5_-s  ! hus
++N+Neu+Sg+Indef: # ;
++N+Neu+Sg+Def:%>et K ;
++N+Neu+Pl+Indef: # ;
++N+Neu+Pl+Def:%>en K ;
+
+
+LEXICON n7     ! parti
++N+Neu+Sg+Indef: K ;
+! +N+Neu+Sg+Def:%>et K ;
+! +N+Neu+Pl+Indef:%>er K ;
+! +N+Neu+Pl+Def:%>erna K ;
++N+Neu+Sg+Def:%>e2t K ;
++N+Neu+Pl+Indef:%>e2r K ;
++N+Neu+Pl+Def:%>e2rna K ;
+
+
+LEXICON n8     ! bi 
++N+Neu+Sg+Indef: K ;
++N+Neu+Sg+Def:%>e2t K ;
+! +N+Neu+Sg+Def:%>et K ;
++N+Neu+Pl+Indef:%>n K ;
++N+Neu+Pl+Def:%>na K ;
+
+
+LEXICON u5     ! lärare
 +N+Utr+Sg+Indef:%>e K ;
 +N+Utr+Sg+Def:%>en K ;
 +N+Utr+Pl+Indef:%>e K ;
 +N+Utr+Pl+Def:%>na K ;
+
+
+LEXICON u6    ! pojke
++N+Utr+Sg+Indef:%>e K ;
++N+Utr+Sg+Def:%>en K ;
++N+Utr+Pl+Indef:%>ar K ;
++N+Utr+Pl+Def:%>arna K ;

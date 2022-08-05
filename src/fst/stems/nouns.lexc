@@ -1,11 +1,20 @@
 
 LEXICON NounRoot
 
-lampa:lamp u1 ;
+lampa:lamp u1 ; 
 båt u2 ;
 gäst u3 ;
 ställe n4 ;
-hus n5 ;
-lærare:lærar u5 ;
+barn n5 ;
+hus n5_-s ;
+lärare:lärar u5 ;
+pojke:pojk u6 ;
 flicka:flick u1 ;
 opera:oper u1 ;
+parti n7 ;
+centerparti n7 ;
+slädparti n7 ;
+akterparti n7 ;
+vänsterparti n7 ;
+bi n8 ;
+häst u2 ;
