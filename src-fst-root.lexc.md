@@ -1,9 +1,27 @@
 
-# Swedish morphological analyser                      !
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Swedish
 
+This file has just been copied from nob
+
 * Multichar_Symbols 
+
+## The central tags
+
 * +Symbol = independent symbols in the text stream, like £, €, ©
+
+* +v1 +v2 tags for different paradigms of homonym lemma
+
+## Sámi case tags to be removed
+
+## Error tags
+
+## Use tags
+
+## These tags nob-specific, probably not needed in swe
+
+## Semantic tags
+
+## Language tags
 
 ## Flag diacritics
 We have manually optimised the structure of our lexicon using following
