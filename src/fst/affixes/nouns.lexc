@@ -2,23 +2,37 @@
 LEXICON u1     ! lampa
 +N+Utr+Sg+Indef:%>a K ;
 +N+Utr+Sg+Def:%>an K ;
-+N+Utr+Pl+Indef:%>or K ;
-+N+Utr+Pl+Def:%>orna K ;
++N+Utr+Pl:%>or uplspec ;
 
 LEXICON u2     ! båt
 +N+Utr+Sg+Indef: K ;
 +N+Utr+Sg+Def:%>en K ;
-+N+Utr+Pl+Indef:%>ar K ;
-+N+Utr+Pl+Def:%>arna K ;
-
++N+Utr+Pl+Indef:%>ar uplspec ;
 
 
 LEXICON u3     ! gäst
 +N+Utr+Sg+Indef: K ;
 +N+Utr+Sg+Def:%>en K ;
-+N+Utr+Pl+Indef:%>er K ;
-+N+Utr+Pl+Def:%>erna K ;
++N+Utr+Pl+Indef:%>er uplspec  ;
 
+LEXICON u5     ! lärare
++N+Utr+Sg+Indef:%>e K ;
++N+Utr+Sg+Def:%>en K ;
++N+Utr+Pl+Indef:%>e K ;
++N+Utr+Pl+Def:%>na K ;
+
+
+LEXICON u6    ! pojke
++N+Utr+Sg+Indef:%>e K ;
++N+Utr+Sg+Def:%>en K ;
++N+Utr+Pl+Indef:%>ar uplspec  ;
+
+LEXICON u_tantum ! kläder
++N+Utr+Pl: uplspec ;
+
+LEXICON uplspec    ! pl
++Indef: K ;
++Def:%>na K ;
 
 LEXICON n4     ! ställe
 +N+Neu+Sg+Indef: K ;
@@ -59,15 +73,3 @@ LEXICON n8     ! bi
 +N+Neu+Pl+Def:%>na K ;
 
 
-LEXICON u5     ! lärare
-+N+Utr+Sg+Indef:%>e K ;
-+N+Utr+Sg+Def:%>en K ;
-+N+Utr+Pl+Indef:%>e K ;
-+N+Utr+Pl+Def:%>na K ;
-
-
-LEXICON u6    ! pojke
-+N+Utr+Sg+Indef:%>e K ;
-+N+Utr+Sg+Def:%>en K ;
-+N+Utr+Pl+Indef:%>ar K ;
-+N+Utr+Pl+Def:%>arna K ;
