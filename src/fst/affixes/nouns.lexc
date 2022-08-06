@@ -73,3 +73,6 @@ LEXICON n8     ! bi
 +N+Neu+Pl+Def:%>na K ;
 
 
+LEXICON akroV     ! SJ -- TEMP!!
++N+Prop+Sem/Org+ACR: # ;
++N+Prop+Sem/Org+ACR:%: K ;
