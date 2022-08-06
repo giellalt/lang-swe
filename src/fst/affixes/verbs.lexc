@@ -13,6 +13,13 @@ LEXICON v2
 +V+Sup:%>t # ;
 +V+PrfPtc:%>d # ;
 
+LEXICON v2b    ! borde nog mergas meed v2 med morfonregel ...
++V+Inf:%>a # ;
++V+Ind+Prs:%>er # ;
++V+Ind+Prt:%>te # ; ! te after unvoiced
++V+Sup:%>t # ;
++V+PrfPtc:%>t # ;
+
 LEXICON v3
 +V+Inf: # ;
 +V+Ind+Prs:%>r # ;

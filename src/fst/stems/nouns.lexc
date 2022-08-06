@@ -4,8 +4,11 @@ LEXICON NounRoot
 lampa:lamp u1 ;
 flicka:flick u1 ;
 opera:oper u1 ;
-
-båt u2 ;
+olja:olj u1smse ;
+källa:käll u1 ;
+resa:res u1 ;
+rundresa:rundres u1 ; ! sms?
+båt u2sms ;
 
 gäst u3 ;
 utflykt u3 ;
@@ -27,4 +30,25 @@ bi n8 ;
 häst u2 ;
 kläder u_tantum ;
 
-SJ akroV ; ! TEMPORÄRT -- ska flytta och förmodl inte görass på detta ssätt
+!! akronym TEMPORÄRT -- ska flytta och förmodl inte görass på detta ssätt
+SJ akroV ;
+
+!! prop TEMPORÄRT
+Kalmar       prop-plats ;
+Öland	     prop-plats ;
+Gotland	     prop-plats ;
+Stockholm    prop-plats ;
+Filipstad    prop-plats ;
+Göteborg     prop-plats ;
+Alexandria   prop-plats ;
+Visby	     prop-plats ;
+Vättern	     prop-plats ;
+Lindome	     prop-plats ;
+Borås	     prop-plats ;
+Jönköping    prop-plats ;
+Ulricehamn   prop-plats ;
+Gränna	     prop-plats ;
+Vadstena     prop-plats ;
+Vänern       prop-plats ;
+
+

@@ -1,6 +1,5 @@
 !! #Swedish prepositions
 
-
 LEXICON p
 !! LEXICON @LEXNAME@ gives tag +Pr
  +Pr: # ;
@@ -8,9 +7,7 @@ LEXICON p
 
 LEXICON Preposition
  !! LEXICON @LEXNAME@  list (appr 80 prepositions)
-!etter+Err/Orth:efter p ; ! spar som amll
-
-
+!etter+Err/Orth:efter p ; ! spar som mall
 med p ;
 till p ;
 

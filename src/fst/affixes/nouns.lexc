@@ -1,8 +1,16 @@
 
+LEXICON u1smse   ! olja, olje-
+ +N: Re ;
+     u1 ;
+
 LEXICON u1     ! lampa
 +N+Utr+Sg+Indef:%>a K ;
 +N+Utr+Sg+Def:%>an K ;
 +N+Utr+Pl:%>or uplspec ;
+
+LEXICON u2sms   ! båt, båt-
+ +N: R ;
+     u2 ;
 
 LEXICON u2     ! båt
 +N+Utr+Sg+Indef: K ;
@@ -76,3 +84,7 @@ LEXICON n8     ! bi
 LEXICON akroV     ! SJ -- TEMP!!
 +N+Prop+Sem/Org+ACR: # ;
 +N+Prop+Sem/Org+ACR:%: K ;
+
+LEXICON prop-plats      ! TEMP!
++N+Prop+Sem/Plc: # ;
++N+Prop+Sem/Plc:%: K ;
