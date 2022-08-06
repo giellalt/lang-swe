@@ -249,23 +249,24 @@ Basic lexica, pointing to the other lexicon files
 
 ---
 
-# Swedish prepositions
+#Swedish prepositions
 
-We should eventually have syntactic tags here...
+LEXICON p gives tag +Pr
 
-## Tags
-**p** for the tag +Pr
+LEXICON Preposition  list (appr 80 prepositions)
 
-## The list of prepositions
-
-**Preposition** for the list of prepositions
+ang. p ; lexin  ! förkortning?
+enl. p ; lexin  ! förkortning?
+exkl. p ; lexin  ! förkortning?
+från lexin (bortkommenterade tills dess att prep ovan fungerar)
+inkl. p ; lexin  ! förkortning?
 
 ### Several cases
 ska man göra nåt här för till sjöss, till mötes etc?
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/adpositions.lexc](https://github.com/giellalt/lang-swe/blob/main/src/fst/stems/adpositions.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/stems/prepositions.lexc](https://github.com/giellalt/lang-swe/blob/main/src/fst/stems/prepositions.lexc)</small>
 
 ---
 
