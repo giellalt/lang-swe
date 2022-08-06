@@ -1,0 +1,110 @@
+!! #Swedish prepositions
+
+
+LEXICON p
+!! LEXICON @LEXNAME@ gives tag +Pr
+ +Pr: # ;
+
+
+LEXICON Preposition
+ !! LEXICON @LEXNAME@  list (appr 80 prepositions)
+!etter+Err/Orth:efter p ; ! spar som amll
+
+
+med p ;
+till p ;
+
+
+! alltifrån p ; lexin 
+! alltsedan p ; lexin 
+! angående p ; lexin 
+! apropå p ; lexin 
+! av p ; lexin 
+! bakom p ; lexin 
+! beträffande p ; lexin 
+! bland p ; lexin 
+! bortom p ; lexin 
+! bortåt p ; lexin 
+! bredvid p ; lexin 
+! däribland p ;
+! däremellan p ;
+! efter p ; lexin 
+! emellan p ; lexin 
+! enligt p ; lexin 
+! exklusive p ; lexin 
+! framför p ; lexin 
+! från p ; lexin 
+! för p ; lexin 
+! före p ; lexin 
+! förutom p ; lexin 
+! genom p ; lexin 
+! gentemot p ; lexin 
+! hos p ; lexin 
+! i p ; lexin 
+! ibland p ; lexin 
+! ifrån p ; lexin 
+! inemot p ; lexin 
+! inför p ; lexin 
+! inklusive p ; lexin 
+! innan p ; lexin 
+! innanför p ; lexin 
+! inom p ; lexin 
+! inpå p ; lexin 
+! intill p ; lexin 
+! inuti p ; lexin 
+! invid p ; lexin 
+! inåt p ; lexin 
+! jämte p ; lexin 
+! kring p ; lexin 
+! längs p ; lexin 
+! med p ; lexin 
+! medelst p ; lexin 
+! mellan p ; lexin 
+! mot p ; lexin 
+! nedanför p ; lexin 
+! nedför p ; lexin 
+! nerför p ; lexin 
+! nära p ; lexin 
+! oavsett p ; lexin 
+! om p ; lexin 
+! omkring p ; lexin 
+! ovan p ; lexin 
+! ovanför p ; lexin 
+! ovanpå p ; lexin 
+! per p ; lexin 
+! på p ; lexin 
+! runt p ; lexin 
+! rörande p ; lexin 
+! sedan p ; lexin 
+! till p ; lexin 
+! tills p ; lexin 
+! trots p ; lexin 
+! tvärtemot p ; lexin 
+! under p ; lexin 
+! uppåt p ; lexin 
+! ur p ; lexin 
+! utan p ; lexin 
+! utanför p ; lexin 
+! utanpå p ; lexin 
+! utefter p ; lexin 
+! uti p ;
+! utifrån p ; lexin 
+! utmed p ; lexin 
+! utom p ; lexin 
+! utåt p ; lexin 
+! utöver p ; lexin 
+! via p ; lexin 
+! vid p ; lexin 
+! visavi p ; lexin 
+! å p ; lexin 
+! åt p ; lexin 
+! över p ; lexin 
+
+!! ang. p ; lexin  ! förkortning?
+!! enl. p ; lexin  ! förkortning?
+!! exkl. p ; lexin  ! förkortning?
+!! från lexin (bortkommenterade tills dess att prep ovan fungerar)
+!! inkl. p ; lexin  ! förkortning?
+
+!! ### Several cases
+!! ska man göra nåt här för till sjöss, till mötes etc?
