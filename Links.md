@@ -5,6 +5,8 @@
         * `affixes/`
             * [symbols.lexc](src-fst-affixes-symbols.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/affixes/symbols.lexc))
         * [root.lexc](src-fst-root.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/root.lexc))
+        * `stems/`
+            * [adpositions.lexc](src-fst-stems-adpositions.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/stems/adpositions.lexc))
     * `phonetics/`
         * [txt2ipa.xfscript](src-phonetics-txt2ipa.xfscript.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/phonetics/txt2ipa.xfscript))
     * `transcriptions/`
