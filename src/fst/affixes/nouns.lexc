@@ -91,4 +91,4 @@ LEXICON akroV     ! SJ -- TEMP!!
 
 LEXICON prop-plats      ! TEMP!
 +N+Prop+Sem/Plc: # ;
-+N+Prop+Sem/Plc:%: K ;
++N+Prop+Sem/Plc: K ;
