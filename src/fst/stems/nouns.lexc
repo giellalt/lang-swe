@@ -5,6 +5,10 @@ lampa:lamp u1 ;
 flicka:flick u1 ;
 opera:oper u1 ;
 olja:olj u1smse ;
+flicka:flick u1sms;
+skola:skol u1sms;
+resa:res u1sms;
+väska:väsk u1sms;
 källa:käll u1 ;
 resa:res u1 ;
 rundresa:rundres u1 ; ! sms?

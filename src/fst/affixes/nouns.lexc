@@ -3,6 +3,10 @@ LEXICON u1smse   ! olja, olje-
  +N: Re ;
      u1 ;
 
+LEXICON u1sms   ! flicka, flick-
+ +N: R ;
+     u1 ;
+
 LEXICON u1     ! lampa
 +N+Utr+Sg+Indef:%>a K ;
 +N+Utr+Sg+Def:%>an K ;
