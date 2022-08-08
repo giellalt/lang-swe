@@ -21,8 +21,11 @@ pojke:pojk u6 ;
 
 barn n5 ;
 tåg n5 ;
-ställe n4 ;
+flyg n5 ;
+hem n5 ;
 hus n5_-s ;
+
+ställe n4 ;
 
 parti n7 ;
 centerparti n7 ;
@@ -55,3 +58,8 @@ Vadstena     prop-plats ;
 Vänern       prop-plats ;
 
 
+!! adv TEMPORÄRT
+hem adv ;
+
+LEXICON adv
++Adv: # ; 
