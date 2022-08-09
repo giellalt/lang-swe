@@ -38,7 +38,8 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/nouns.lexc         \
 			 stems/numerals.lexc      \
 			 stems/pronouns.lexc      \
-			 stems/prepositions.lexc      \
+			 stems/prepositions.lexc  \
+                         stems/conjunctions.lexc  \
 			 stems/verbs.lexc
 
 # If you are building an error-detecting L2 analyser, specify the lexc files

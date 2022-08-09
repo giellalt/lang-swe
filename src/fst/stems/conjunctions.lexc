@@ -1,0 +1,53 @@
+!! # Swedish conjunctions & subjunctions
+
+
+LEXICON conj
+!! @LEXNAME@ for the tag +CC
+ +CC: # ;
+
+LEXICON subj
+!! LEXICON @LEXNAME@ gives tag +CS
+ +CS: # ;
+
+LEXICON Conjunction
+!! @LEXNAME@  och, att, emedan, ..
+allteftersom subj ;
+alltsedan subj ;
+antingen conj ;
+att subj ;
+att+IM:att # ;
+bara subj ;
+både conj ;
+dels conj ;
+då  subj ;
+eftersom subj ;
+eller conj ;
+emedan subj ;
+fast subj ;
+fastän subj ;
+för subj ;
+förrän subj ;
+huruvida subj ;
+ifall subj ;
+innan subj ;
+liksom subj ;
+medan subj ;
+men conj ;
+när subj ;
+och conj ;
+om subj ;
+samt conj ;
+sedan subj ;
+som subj ;
+så subj ;
+såvida subj ;
+såvitt subj ;
+såväl subj ;
+tills subj ;
+ty conj ;
+utan conj ;
+!vare sig subj ;
+varken conj ;
+än subj ;
+ömsom conj ;
+
