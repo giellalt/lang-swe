@@ -6,6 +6,7 @@
             * [symbols.lexc](src-fst-affixes-symbols.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/affixes/symbols.lexc))
         * [root.lexc](src-fst-root.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/root.lexc))
         * `stems/`
+            * [conjunctions.lexc](src-fst-stems-conjunctions.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/stems/conjunctions.lexc))
             * [nouns.lexc](src-fst-stems-nouns.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/stems/nouns.lexc))
             * [prepositions.lexc](src-fst-stems-prepositions.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/stems/prepositions.lexc))
     * `phonetics/`

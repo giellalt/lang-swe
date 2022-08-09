@@ -238,6 +238,7 @@ Basic lexica, pointing to the other lexicon files
 *  NounRoot ;		  
 *  AdjectiveRoot ;  
 *  VerbRoot ;		  
+* Conjunction ;	  
 * Preposition ;	  
 *  Pronoun ;		  
 *  Numeral ;		  
@@ -246,6 +247,20 @@ Basic lexica, pointing to the other lexicon files
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-swe/blob/main/src/fst/root.lexc)</small>
+
+---
+
+# Swedish conjunctions & subjunctions
+
+conj for the tag +CC
+
+LEXICON subj gives tag +CS
+
+Conjunction  och, att, emedan, ..
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/conjunctions.lexc](https://github.com/giellalt/lang-swe/blob/main/src/fst/stems/conjunctions.lexc)</small>
 
 ---
 

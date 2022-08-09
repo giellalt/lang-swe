@@ -57,6 +57,7 @@ Basic lexica, pointing to the other lexicon files
 *  NounRoot ;		  
 *  AdjectiveRoot ;  
 *  VerbRoot ;		  
+* Conjunction ;	  
 * Preposition ;	  
 *  Pronoun ;		  
 *  Numeral ;		  
