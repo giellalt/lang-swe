@@ -17,12 +17,13 @@ gäst u3 ;
 utflykt u3 ;
 
 lärare:lärar u5 ;
+vandrare:vandrar u5sms;
 pojke:pojk u6 ;
 
 barn n5 ;
 tåg n5 ;
 flyg n5 ;
-hem n5 ;
+hem n5m ;
 hus n5_-s ;
 
 ställe n4 ;
