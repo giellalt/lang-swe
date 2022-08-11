@@ -18,7 +18,12 @@ utflykt u3 ;
 
 lärare:lärar u5 ;
 vandrare:vandrar u5sms;
+
 pojke:pojk u6 ;
+
+mormor mor ;
+moder moder ;
+mödrar:mödrar+N+Utr+Pl uplspec ;
 
 barn n5 ;
 tåg n5 ;
