@@ -43,19 +43,20 @@ LEXICON u6    ! pojke
 +N+Utr+Sg+Def:%>en K ;
 +N+Utr+Pl+Indef:%>ar uplspec  ;
 
-!! se nob
 LEXICON mor ! stam = null
 +N+Utr+Sg+Indef:mor K ; ! "suffix" = mor
-+N+Utr+Sg+Def:moren K ; ! etc.
-+N+Utr+Pl+Indef:mödrar K ;
-+N+Utr+Pl+Def:mödrarna K ;
++N+Utr+Pl:mödrar mödrar ;
 +N:mor R ;
 
+LEXICON moder ! 
++N+Utr+Sg+Indef: K ;
++N+Utr+Sg+Def:%>n K ;
++N+Utr+Pl:mödrar mödrar ;
++N: R ;
 
-! LEXICON moder ! 
-! +N: R ;
-! +N+Utr+Sg+Indef: K ;
-! +N+Utr+Sg+Def:%>n K ;
+LEXICON mödrar !
++Indef: K ;
++Def:%>na K ;
 
 LEXICON u_tantum ! kläder
 +N+Utr+Pl: uplspec ;
