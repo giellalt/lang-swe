@@ -1,7 +1,5 @@
 
 
-se nob!
-
 akronym TEMPORÄRT -- ska flytta och förmodl inte görass på detta ssätt
 
 prop TEMPORÄRT

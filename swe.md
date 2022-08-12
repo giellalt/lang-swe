@@ -171,16 +171,6 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-swe/blob/main/src/cg3/functions.cg3)</small>
-
-se nob
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-swe/blob/main/src/fst/affixes/nouns.lexc)</small>
-
----
-
-
 # Symbol affixes
 
 * * *
@@ -275,8 +265,6 @@ Conjunction  och, att, emedan, ..
 ---
 
 
-
-se nob!
 
 akronym TEMPORÄRT -- ska flytta och förmodl inte görass på detta ssätt
 

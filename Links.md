@@ -3,7 +3,6 @@
         * [functions.cg3](src-cg3-functions.cg3.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/cg3/functions.cg3))
     * `fst/`
         * `affixes/`
-            * [nouns.lexc](src-fst-affixes-nouns.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/affixes/nouns.lexc))
             * [symbols.lexc](src-fst-affixes-symbols.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/affixes/symbols.lexc))
         * [root.lexc](src-fst-root.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/root.lexc))
         * `stems/`
