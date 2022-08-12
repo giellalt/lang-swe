@@ -44,10 +44,14 @@ LEXICON u6    ! pojke
 +N+Utr+Pl+Indef:%>ar uplspec  ;
 
 !! se nob
-! LEXICON mor ! 
-! +N: R ;
-! +N+Utr+Sg+Indef: K ;
-! 
+LEXICON mor ! stam = null
++N+Utr+Sg+Indef:mor K ; ! "suffix" = mor
++N+Utr+Sg+Def:moren K ; ! etc.
++N+Utr+Pl+Indef:mödrar K ;
++N+Utr+Pl+Def:mödrarna K ;
++N:mor R ;
+
+
 ! LEXICON moder ! 
 ! +N: R ;
 ! +N+Utr+Sg+Indef: K ;

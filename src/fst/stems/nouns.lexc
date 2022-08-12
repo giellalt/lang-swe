@@ -22,7 +22,9 @@ vandrare:vandrar u5sms;
 pojke:pojk u6 ;
 
 !! se nob!
-!mormor mor ;
+mor: mor ;
+mormor:mor mor ;
+
 !moder moder ;
 !mödrar:mödrar+N+Utr+Pl uplspec ;
 
