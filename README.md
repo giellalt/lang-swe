@@ -6,6 +6,8 @@ The Swedish morphology and tools
 [![License](https://img.shields.io/github/license/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/blob/main/LICENSE)
 OR
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-swe?platform=desktop&channel=nightly)
+[![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-swe?platform=mbile&channel=nightly)
 
 This repository contains finite state source files for the Swedish language,
 for building morphological analysers, proofing tools
