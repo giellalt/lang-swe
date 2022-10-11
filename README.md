@@ -5,17 +5,17 @@ The Swedish morphology and tools
 [![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-swe/main/badge.svg)](https://github.com/giellalt/lang-swe/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/blob/main/LICENSE-LGPL)
 OR
-[![License: CC BY 3.0](https://img.shields.io/badge/License-CC%20BY--SA%203.0-lightgrey.svg)](https://github.com/giellalt/lang-swe/blob/main/LICENSE-CC-BY)
+[![License: CC BY 3.0](https://img.shields.io/badge/License-CC%20BY%203.0-lightgrey.svg)](https://github.com/giellalt/lang-swe/blob/main/LICENSE-CC-BY)
 [![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-swe?platform=desktop&channel=nightly)
 [![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-swe?platform=mbile&channel=nightly)
 
 This repository contains finite state source files for the Swedish language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licensed under either of the __LGPLv3__
-or the __CC-BY-SA__
+or the __CC-BY__
 licenses, also detailed in the
 [LGPLv3 LICENSE](https://github.com/giellalt/lang-swe/blob/main/LICENSE-LGPL) and
-[CC-BY-SA](https://github.com/giellalt/lang-swe/blob/main/LICENSE-CC-BY) files. The
+[CC-BY](https://github.com/giellalt/lang-swe/blob/main/LICENSE-CC-BY) files. The
 authors named in the AUTHORS file are available to grant other licensing
 choices.
 
