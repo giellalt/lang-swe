@@ -3,9 +3,9 @@ The Swedish morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/issues)
 [![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-swe/main/badge.svg)](https://github.com/giellalt/lang-swe/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/blob/main/LICENSE-LGPL)
 OR
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY 3.0](https://img.shields.io/badge/License-CC%20BY--SA%203.0-lightgrey.svg)](https://github.com/giellalt/lang-swe/blob/main/LICENSE-CC-BY)
 [![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-swe?platform=desktop&channel=nightly)
 [![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-swe?platform=mbile&channel=nightly)
 
@@ -14,8 +14,8 @@ for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licensed under either of the __LGPLv3__
 or the __CC-BY-SA__
 licenses, also detailed in the
-[LGPLv3 LICENSE](https://github.com/giellalt/lang-swe/blob/main/LICENSE) and
-[CC-BY-SA](https://github.com/giellalt/lang-swe/blob/main/src/fst/incoming/saldo_2.3/Creative_Commons_Legal_Code.html) files. The
+[LGPLv3 LICENSE](https://github.com/giellalt/lang-swe/blob/main/LICENSE-LGPL) and
+[CC-BY-SA](https://github.com/giellalt/lang-swe/blob/main/LICENSE-CC-BY) files. The
 authors named in the AUTHORS file are available to grant other licensing
 choices.
 
