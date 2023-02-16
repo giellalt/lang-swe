@@ -1,4 +1,4 @@
-+N+Utr+Pl+Def
-+N+Utr+Pl+Indef
-+N+Utr+Sg+Def
 +N+Utr+Sg+Indef
++N+Utr+Sg+Def
++N+Utr+Pl+Indef
++N+Utr+Pl+Def
