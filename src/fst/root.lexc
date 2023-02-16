@@ -232,6 +232,11 @@ LEXICON R
  #+Cmp%-:%-  NounRoot ;   ! dynamic compounding ON
 ! #+Cmp%-:%-  # ;   ! dynamic compounding OFF
 
+LEXICON Rs 
+#+CmpS+:s##  NounRoot ; ! dynamic compounding ON
+
+LEXICON R0
+#+Cmp+:##  NounRoot ;   ! dynamic compounding ON
 
 ! =======
 ! Clitics

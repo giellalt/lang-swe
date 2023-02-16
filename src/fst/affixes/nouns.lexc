@@ -19,13 +19,13 @@ LEXICON u2sms   ! båt, båt-
 LEXICON u2     ! båt
 +N+Utr+Sg+Indef: K ;
 +N+Utr+Sg+Def:%>en K ;
-+N+Utr+Pl+Indef:%>ar uplspec ;
++N+Utr+Pl:%>ar uplspec ;
 
 
 LEXICON u3     ! gäst
 +N+Utr+Sg+Indef: K ;
 +N+Utr+Sg+Def:%>en K ;
-+N+Utr+Pl+Indef:%>er uplspec  ;
++N+Utr+Pl:%>er uplspec  ;
 
 LEXICON u5sms   ! vandrare, vandrar-
  +N: R ;
@@ -41,7 +41,7 @@ LEXICON u5     ! lärare
 LEXICON u6    ! pojke
 +N+Utr+Sg+Indef:%>e K ;
 +N+Utr+Sg+Def:%>en K ;
-+N+Utr+Pl+Indef:%>ar uplspec  ;
++N+Utr+Pl:%>ar uplspec  ;
 
 LEXICON mor ! stam = null
 +N+Utr+Sg+Indef:mor K ; ! "suffix" = mor
@@ -109,6 +109,19 @@ LEXICON n8     ! bi
 +N+Neu+Pl+Indef:%>n K ;
 +N+Neu+Pl+Def:%>na K ;
 
+LEXICON n9     ! märke
++N+Neu+Sg+Indef: K ;
++N+Neu+Sg+Def:%>t K ;
++N+Neu+Pl+Indef:%>n K ;
++N+Neu+Pl+Def:%>na K ;
+
+LEXICON n9R0      ! kaffe
+ +N: R0 ;
+     n9 ;
+
+LEXICON n9Rs      ! märke 
+ +N: Rs ;
+     n9 ;
 
 LEXICON akroV     ! SJ -- TEMP!!
 +N+Prop+Sem/Org+ACR: # ;

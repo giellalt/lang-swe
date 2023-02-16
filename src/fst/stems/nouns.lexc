@@ -15,6 +15,7 @@ båt u2sms ;
 
 gäst u3 ;
 utflykt u3 ;
+paus u3 ;
 
 lärare:lärar u5 ;
 vandrare:vandrar u5sms;
@@ -40,6 +41,10 @@ vänsterparti n7 ;
 bi n8 ;
 häst u2 ;
 kläder u_tantum ;
+
+märke n9Rs ;
+härke n9 ;
+kaffe n9R0 ; ! saknar plural, massubstantiv
 
 !! akronym TEMPORÄRT -- ska flytta och förmodl inte görass på detta ssätt
 SJ akroV ;
