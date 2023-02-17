@@ -4,7 +4,8 @@ LEXICON NounRoot
 lampa:lamp u1 ;
 opera:oper u1 ;
 olja:olj u1smse ;
-flicka:flick u1sms;
+flicka:flick u1sms ;
+skugga:skugg u1sms ;
 skola:skol u1sms;
 resa:res u1sms;
 väska:väsk u1sms;
@@ -30,6 +31,7 @@ tåg n5 ;
 flyg n5 ;
 hem n5m ;
 hus n5_-s ;
+gräs n5_-s ;
 
 ställe n4 ;
 
@@ -69,7 +71,7 @@ Vänern       prop-plats ;
 
 
 !! adv TEMPORÄRT
-hem adv ;
+hem adv ; ! verkar inte funka med sammansättning i hemresan
 
 LEXICON adv
 +Adv: # ; 
