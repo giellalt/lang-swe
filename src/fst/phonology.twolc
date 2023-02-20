@@ -9,6 +9,8 @@ Sets
 
 Cns = b c d f g h j k l m n p q r s t v w x z ;
 Vow = a e i o u y å ä ö ;
+Voiced = b g d ;
+Unvoiced = p k t ;
 
 Rules 
 
@@ -17,3 +19,6 @@ e:0 <=> Vow %> _ ;
 
 "Save some (+N+Neu) suffix-intital e"
 e2:e <=> Vow %> _ ;
+
+"de-affix after unvoiced cns" ! Marie och Lina har försök göra regel för unvoiced rule för verb här, behöver hjälp
+! d:t <=> Unvoiced %> _ ;
