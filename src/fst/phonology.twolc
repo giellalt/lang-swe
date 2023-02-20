@@ -10,7 +10,7 @@ Sets
 Cns = b c d f g h j k l m n p q r s t v w x z ;
 Vow = a e i o u y å ä ö ;
 Voiced = b g d ;
-Unvoiced = p k t ;
+Unvoiced = p k t s ;
 
 Rules 
 
