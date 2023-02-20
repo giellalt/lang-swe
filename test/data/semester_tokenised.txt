@@ -1,0 +1,1375 @@
+"<Vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<reste>"
+	"resa" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<med>"
+	"med" Pr <W:0.0> @<ADVL
+: 
+"<SJ:s>"
+	"SJ" N Prop Sem/Org ACR Clt <W:0.0> @X
+: 
+"<rundresa>"
+	"rundresa" N Utr Sg Indef <W:0.0> @X
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Tåg>"
+	"tåg" N Neu Pl Indef <W:0.0> @HNOUN
+	"tåg" N Neu Sg Indef <W:0.0> @HNOUN
+: 
+"<till>"
+	"till" Pr <W:0.0> @N<
+: 
+"<Kalmar>"
+	"Kalmar" N Prop Sem/Plc <W:0.0> @HNOUN
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Båt>"
+	"båt" N <W:0.0> @HNOUN
+	 Cmp "utflykt" N Utr Sg Indef <W:0.0> "<utflykt>"
+: 
+"<till>"
+	"till" Pr <W:0.0> @N<
+: 
+"<Öland>"
+	"Öland" N Prop Sem/Plc <W:0.0> @HNOUN
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Båt>"
+	"båt" N Utr Sg Indef <W:0.0> @HNOUN
+: 
+"<till>"
+	"till" Pr <W:0.0> @N<
+: 
+"<Gotland>"
+	"Gotland" N Prop Sem/Plc <W:0.0> @HNOUN
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Flyg>"
+	"flyg" N Neu Pl Indef <W:0.0> @HNOUN
+	"flyg" N Neu Sg Indef <W:0.0> @HNOUN
+: 
+"<till>"
+	"till" Pr <W:0.0> @N<
+: 
+"<Stockholm>"
+	"Stockholm" N Prop Sem/Plc <W:0.0> @HNOUN
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Tåg>"
+	"tåg" N Neu Pl Indef <W:0.0> @HNOUN
+	"tåg" N Neu Sg Indef <W:0.0> @HNOUN
+: 
+"<till>"
+	"till" Pr <W:0.0> @N<
+: 
+"<Filipstad>"
+	"Filipstad" N Prop Sem/Plc <W:0.0> @HNOUN
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Tåg>"
+	"tåg" N Neu Pl Indef <W:0.0> @HNOUN
+	"tåg" N Neu Sg Indef <W:0.0> @HNOUN
+: 
+"<hem>"
+	"hem" N Neu Pl Indef <W:0.0> @HNOUN
+	"hem" N Neu Sg Indef <W:0.0> @HNOUN
+: 
+"<till>"
+	"till" Pr <W:0.0> @N<
+: 
+"<Göteborg>"
+	"Göteborg" N Prop Sem/Plc <W:0.0> @HNOUN
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+
+"<Vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<hade>"
+	"ha" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<ingen>"
+	"ingen" ?
+: 
+"<res>"
+	"resa" N <W:0.0> @X
+	 Cmp "väska" N Utr Sg Indef <W:0.0> "<väska>"
+: 
+"<och>"
+	"och" CC <W:0.0> @CVP
+: 
+"<skulle>"
+	"skola" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<ju>"
+	"ju" ?
+: 
+"<vara>"
+	"vara" V Inf <W:0.0> @X
+: 
+"<borta>"
+	"borta" ?
+: 
+"<i>"
+	"i" Pr <W:0.0> @-F<ADVL
+: 
+"<15>"
+	"15" ?
+: 
+"<dagar>"
+	"dagar" ?
+: 
+"<så>"
+	"så" CS <W:0.0> @CVP
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<behövde>"
+	"behövde" ?
+: 
+"<ju>"
+	"ju" ?
+: 
+"<lite>"
+	"lite" ?
+: 
+"<kläder>"
+	"kläder" N Utr Pl Indef <W:0.0> @X
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Min>"
+	"Min" ?
+: 
+"<morbror>"
+	"morbror" ?
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<sjöman>"
+	"sjöman" ?
+: 
+"<och>"
+	"och" CC <W:0.0> @CVP
+: 
+"<hade>"
+	"ha" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<seglat>"
+	"seglat" ?
+: 
+"<på>"
+	"på" Pr <W:0.0> @<ADVL
+: 
+"<Alexandria>"
+	"Alexandria" N Prop Sem/Plc <W:0.0> @X
+: 
+"<och>"
+	"och" CC <W:0.0> @CNP
+: 
+"<där>"
+	"där" ?
+: 
+"<köpt>"
+	"köpt" ?
+: 
+"<en>"
+	"en" Num <W:0.0> @>N
+: 
+"<res>"
+	"resa" N <W:0.0> @X
+	 Cmp "väska" N Utr Sg Indef <W:0.0> "<väska>"
+: 
+"<i>"
+	"i" Pr <W:0.0> @<ADVL
+: 
+"<kamelhud>"
+	"kamelhud" ?
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<fick>"
+	"få" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<låna>"
+	"låna" ?
+: 
+"<den>"
+	"den" Pron Pers Sg3 <W:0.0> @X
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Den>"
+	"den" Pron Pers Sg3 <W:0.0> @X
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<tung>"
+	"tung" ?
+: 
+"<i>"
+	"i" Pr <W:0.0> @<ADVL
+: 
+"<sig>"
+	"sig" ?
+: 
+"<själv>"
+	"själv" ?
+: 
+"<så>"
+	"så" CS <W:0.0> @CVP
+: 
+"<med>"
+	"med" Pr <W:0.0> @X
+: 
+"<kläder>"
+	"kläder" N Utr Pl Indef <W:0.0> @X
+: 
+"<i>"
+	"i" Pr <W:0.0> @X
+: 
+"<blev>"
+	"blev" ?
+: 
+"<den>"
+	"den" Pron Pers Sg3 <W:0.0> @X
+: 
+"<väldigt>"
+	"väldigt" ?
+: 
+"<tung>"
+	"tung" ?
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Men>"
+	"men" CC <W:0.0> @CVP
+: 
+"<som>"
+	"som" CS <W:0.0> @CVP
+: 
+"<de>"
+	"de" Pron Pers Pl3 Nom <W:0.0> @X
+: 
+"<oerfarna>"
+	"oerfarna" ?
+: 
+"<resenärer>"
+	"resenärer" ?
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<så>"
+	"så" CS <W:0.0> @CVP
+: 
+"<åkte>"
+	"åkte" ?
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<glatt>"
+	"glatt" ?
+: 
+"<iväg>"
+	"iväg" ?
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+
+"<Tredje>"
+	"Tredje" ?
+: 
+"<dagen>"
+	"dagen" ?
+: 
+"<skulle>"
+	"skola" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<ta>"
+	"ta" ?
+: 
+"<båten>"
+	"båt" N Utr Sg Def <W:0.0> @X
+: 
+"<från>"
+	"från" Pr <W:0.0> @<ADVL
+: 
+"<Kalmar>"
+	"Kalmar" N Prop Sem/Plc <W:0.0> @X
+: 
+"<till>"
+	"till" Pr <W:0.0> @<ADVL
+: 
+"<Visby>"
+	"Visby" N Prop Sem/Plc <W:0.0> @X
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Flög>"
+	"Flög" ?
+: 
+"<efter>"
+	"efter" Pr <W:0.0> @X
+: 
+"<fem>"
+	"fem" ?
+: 
+"<dagar>"
+	"dagar" ?
+: 
+"<till>"
+	"till" Pr <W:0.0> @X
+: 
+"<Stockholm>"
+	"Stockholm" N Prop Sem/Plc <W:0.0> @HNOUN
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Tog>"
+	"Tog" ?
+: 
+"<tåget>"
+	"tåg" N Neu Sg Def <W:0.0> @X
+: 
+"<till>"
+	"till" Pr <W:0.0> @N<
+: 
+"<Filipstad>"
+	"Filipstad" N Prop Sem/Plc <W:0.0> @X
+: 
+"<och>"
+	"och" CC <W:0.0> @CVP
+: 
+"<hade>"
+	"ha" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<tänkt>"
+	"tänkt" ?
+: 
+"<stanna>"
+	"stanna" ?
+: 
+"<ytterligare>"
+	"ytterligare" ?
+: 
+"<en>"
+	"en" Num <W:0.0> @X
+: 
+"<gång>"
+	"gång" ?
+: 
+"<på>"
+	"på" Pr <W:0.0> @<ADVL
+: 
+"<hemresan>"
+	"hemresan" ?
+: 
+"<men>"
+	"men" CC <W:0.0> @CVP
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<så>"
+	"så" CS <W:0.0> @CVP
+: 
+"<trötta>"
+	"trötta" ?
+: 
+"<på>"
+	"på" Pr <W:0.0> @X
+: 
+"<att>"
+	"att" IM <W:0.0> @IM
+: 
+"<släpa>"
+	"släpa" ?
+: 
+"<på>"
+	"på" Pr <W:0.0> @X
+: 
+"<den>"
+	"den" Pron Pers Sg3 <W:0.0> @X
+: 
+"<tunga>"
+	"tunga" ?
+: 
+"<väskan>"
+	"väska" N Utr Sg Def <W:0.0> @X
+: 
+"<att>"
+	"att" IM <W:0.0> @IM
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<for>"
+	"for" ?
+: 
+"<hem>"
+	"hem" Adv <W:0.0> @X
+	"hem" N Neu Pl Indef <W:0.0> @X
+	"hem" N Neu Sg Indef <W:0.0> @X
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<har>"
+	"ha" V Ind Prs <W:0.0> @+FMAINV
+: 
+"<sedan>"
+	"sedan" CS <W:0.0> @CVP
+	"sedan" Pr <W:0.0> @<ADVL
+: 
+"<vid>"
+	"vid" Pr <W:0.0> @ADVL>
+: 
+"<våra>"
+	"våra" ?
+: 
+"<resor>"
+	"resa" N Utr Pl Indef <W:0.0> @X
+: 
+"<alltid>"
+	"alltid" ?
+: 
+"<haft>"
+	"ha" V Sup <W:0.0> @X
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<sin>"
+	"sin" ?
+: 
+"<liten>"
+	"liten" ?
+: 
+"<väska>"
+	"väska" N Utr Sg Indef <W:0.0> @X
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Alltid>"
+	"Alltid" ?
+: 
+"<lär>"
+	"lär" ?
+: 
+"<man>"
+	"man" ?
+: 
+"<sig>"
+	"sig" ?
+: 
+"<något>"
+	"något" ?
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+
+"<Semestern>"
+	"Semestern" ?
+: 
+"<på>"
+	"på" Pr <W:0.0> @ADVL>
+: 
+"<den>"
+	"den" Pron Pers Sg3 <W:0.0> @X
+: 
+"<här>"
+	"här" ?
+: 
+"<tiden>"
+	"tiden" ?
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<två>"
+	"två" Num <W:0.0> @X
+: 
+"<veckor>"
+	"veckor" ?
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Ofta>"
+	"Ofta" ?
+: 
+"<tog>"
+	"tog" ?
+: 
+"<jag>"
+	"jag" Pron Pers Sg1 Nom <W:0.0> @X
+: 
+"<ut>"
+	"ut" ?
+: 
+"<den>"
+	"den" Pron Pers Sg3 <W:0.0> @X
+: 
+"<tidigt>"
+	"tidigt" ?
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<gärna>"
+	"gärna" ?
+: 
+"<i>"
+	"i" Pr <W:0.0> @ADVL>
+: 
+"<juni>"
+	"juni" ?
+: 
+"<och>"
+	"och" CC <W:0.0> @CNP
+: 
+"<då>"
+	"då" CS <W:0.0> @CVP
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<det>"
+	"det" Pron Pers Sg3 <W:0.0> @X
+: 
+"<cykelturer>"
+	"cykelturer" ?
+: 
+"<som>"
+	"som" CS <W:0.0> @CVP
+: 
+"<gällde>"
+	"gällde" ?
+: 
+"<och>"
+	"och" CC <W:0.0> @CNP
+: 
+"<då>"
+	"då" CS <W:0.0> @CVP
+: 
+"<låg>"
+	"låg" ?
+: 
+"<man>"
+	"man" ?
+: 
+"<över>"
+	"över" Pr <W:0.0> @X
+: 
+"<på>"
+	"på" Pr <W:0.0> @X
+: 
+"<vandrar>"
+	"vandrare" N <W:0.0> @X
+	 Cmp "hem" Adv <W:0.0> "<hem>"
+	 Cmp "hem" N Neu Pl Indef <W:0.0> "<hem>"
+	 Cmp "hem" N Neu Sg Indef <W:0.0> "<hem>"
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Ett>"
+	"Ett" ?
+: 
+"<år>"
+	"år" ?
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<fyra>"
+	"fyra" ?
+: 
+"<flickor>"
+	"flicka" N Utr Pl Indef <W:0.0> @X
+: 
+"<som>"
+	"som" CS <W:0.0> @CVP
+: 
+"<cyklade>"
+	"cyklade" ?
+: 
+"<Vättern>"
+	"Vättern" N Prop Sem/Plc <W:0.0> @X
+: 
+"<runt>"
+	"runt" Pr <W:0.0> @X
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<startade>"
+	"startade" ?
+: 
+"<från>"
+	"från" Pr <W:0.0> @X
+: 
+"<Lindome>"
+	"Lindome" N Prop Sem/Plc <W:0.0> @X
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<tog>"
+	"tog" ?
+: 
+"<oss>"
+	"vi" Pron Pers Pl1 Acc <W:0.0> @X
+: 
+"<på>"
+	"på" Pr <W:0.0> @X
+: 
+"<backiga>"
+	"backiga" ?
+: 
+"<grusvägar>"
+	"grusvägar" ?
+: 
+"<först>"
+	"först" ?
+: 
+"<till>"
+	"till" Pr <W:0.0> @X
+: 
+"<Borås>"
+	"Borås" N Prop Sem/Plc <W:0.0> @X
+: 
+"<och>"
+	"och" CC <W:0.0> @CNP
+: 
+"<Jönköping>"
+	"Jönköping" N Prop Sem/Plc <W:0.0> @X
+: 
+"<till>"
+	"till" Pr <W:0.0> @X
+: 
+"<Ulricehamn>"
+	"Ulricehamn" N Prop Sem/Plc <W:0.0> @X
+: 
+"<där>"
+	"där" ?
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<blev>"
+	"blev" ?
+: 
+"<bjudna>"
+	"bjudna" ?
+: 
+"<på>"
+	"på" Pr <W:0.0> @X
+: 
+"<middag>"
+	"middag" ?
+: 
+"<och>"
+	"och" CC <W:0.0> @CNP
+: 
+"<övernattning>"
+	"övernattning" ?
+: 
+"<hos>"
+	"hos" Pr <W:0.0> @X
+: 
+"<en>"
+	"en" Num <W:0.0> @X
+: 
+"<släkting>"
+	"släkting" ?
+: 
+"<till>"
+	"till" Pr <W:0.0> @X
+: 
+"<en>"
+	"en" Num <W:0.0> @X
+: 
+"<av>"
+	"av" Pr <W:0.0> @X
+: 
+"<flickorna>"
+	"flicka" N Utr Pl Def <W:0.0> @X
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<hemskt>"
+	"hemskt" ?
+: 
+"<trötta>"
+	"trötta" ?
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<men>"
+	"men" CC <W:0.0> @CNP
+: 
+"<efter>"
+	"efter" Pr <W:0.0> @X
+: 
+"<middag>"
+	"middag" ?
+: 
+"<och>"
+	"och" CC <W:0.0> @CNP
+: 
+"<dusch>"
+	"dusch" ?
+: 
+"<gick>"
+	"gick" ?
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<ut>"
+	"ut" ?
+: 
+"<på>"
+	"på" Pr <W:0.0> @X
+: 
+"<dans>"
+	"dans" ?
+: 
+"<till>"
+	"till" Pr <W:0.0> @X
+: 
+"<Folkets>"
+	"Folkets" ?
+: 
+"<Park>"
+	"Park" ?
+: 
+"<på>"
+	"på" Pr <W:0.0> @X
+: 
+"<kvällen>"
+	"kvällen" ?
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Dagen>"
+	"Dagen" ?
+: 
+"<därpå>"
+	"därpå" ?
+: 
+"<trampade>"
+	"trampade" ?
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<vidare>"
+	"vidare" ?
+: 
+"<till>"
+	"till" Pr <W:0.0> @X
+: 
+"<Gränna>"
+	"Gränna" N Prop Sem/Plc <W:0.0> @HNOUN
+: 
+"<där>"
+	"där" ?
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<tog>"
+	"tog" ?
+: 
+"<in>"
+	"in" ?
+: 
+"<på>"
+	"på" Pr <W:0.0> @X
+: 
+"<STF:s>"
+	"STF:s" ?
+: 
+"<Vandrar>"
+	"vandrare" N <W:0.0> @HNOUN
+	 Cmp "hem" Adv <W:0.0> "<hem>"
+	 Cmp "hem" N Neu Pl Indef <W:0.0> "<hem>"
+	 Cmp "hem" N Neu Sg Indef <W:0.0> "<hem>"
+: 
+"<och>"
+	"och" CC <W:0.0> @CNP
+: 
+"<stannade>"
+	"stannade" ?
+: 
+"<i>"
+	"i" Pr <W:0.0> @X
+: 
+"<två>"
+	"två" Num <W:0.0> @X
+: 
+"<nätter>"
+	"nätter" ?
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Sen>"
+	"Sen" ?
+: 
+"<bar>"
+	"bar" ?
+: 
+"<det>"
+	"det" Pron Pers Sg3 <W:0.0> @X
+: 
+"<vidare>"
+	"vidare" ?
+: 
+"<mot>"
+	"mot" Pr <W:0.0> @X
+: 
+"<Vadstena>"
+	"Vadstena" N Prop Sem/Plc <W:0.0> @HNOUN
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+
+"<När>"
+	"när" CS <W:0.0> @CVP
+: 
+"<pappa>"
+	"pappa" ?
+: 
+"<hade>"
+	"ha" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<semester>"
+	"semester" ?
+: 
+"<skulle>"
+	"skola" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<många>"
+	"många" ?
+: 
+"<saker>"
+	"saker" ?
+: 
+"<ombestyras>"
+	"ombestyras" ?
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<taket>"
+	"taket" ?
+: 
+"<av>"
+	"av" Pr <W:0.0> @ADVL>
+: 
+"<eternitplattor>"
+	"eternitplattor" ?
+: 
+"<skulle>"
+	"skola" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<tjäras>"
+	"tjäras" ?
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<ved>"
+	"ved" ?
+: 
+"<för>"
+	"för" CS <W:0.0> @CVP
+: 
+"<vintern>"
+	"vintern" ?
+: 
+"<skulle>"
+	"skola" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<lagras>"
+	"lagras" ?
+: 
+"<och>"
+	"och" CC <W:0.0> @CVP
+: 
+"<alla>"
+	"alla" ?
+: 
+"<diken>"
+	"diken" ?
+: 
+"<tillhörande>"
+	"tillhörande" ?
+: 
+"<gården>"
+	"gården" ?
+: 
+"<skulle>"
+	"skola" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<röjas>"
+	"röjas" ?
+: 
+"<från>"
+	"från" Pr <W:0.0> @<ADVL
+: 
+"<sly>"
+	"sly" ?
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Gräs>"
+	"gräs" N Neu Pl Indef <W:0.0> @X
+	"gräs" N Neu Sg Indef <W:0.0> @X
+: 
+"<skulle>"
+	"skola" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<klippas>"
+	"klippas" ?
+: 
+"<och>"
+	"och" CC <W:0.0> @CNP
+: 
+"<vägar>"
+	"vägar" ?
+: 
+"<lagas>"
+	"lagas" ?
+: 
+"<så>"
+	"så" CS <W:0.0> @CVP
+: 
+"<att>"
+	"att" CS <W:0.0> @CVP
+	"att" IM <W:0.0> @IM
+: 
+"<man>"
+	"man" ?
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<redo>"
+	"redo" ?
+: 
+"<att>"
+	"att" IM <W:0.0> @IM
+: 
+"<möta>"
+	"möta" ?
+: 
+"<nästa>"
+	"nästa" ?
+: 
+"<årstid>"
+	"årstid" ?
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Det>"
+	"det" Pron Pers Sg3 <W:0.0> @X
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<aldrig>"
+	"aldrig" ?
+: 
+"<tal>"
+	"tal" ?
+: 
+"<om>"
+	"om" Pr <W:0.0> @<ADVL
+: 
+"<på>"
+	"på" Pr <W:0.0> @ADVL>
+: 
+"<40>"
+	"40" ?
+"<–>"
+	"–" PUNCT <W:0.0>
+"<50-talet>"
+	"50-talet" ?
+: 
+"<att>"
+	"att" CS <W:0.0> @CVP
+: 
+"<vanliga>"
+	"vanliga" ?
+: 
+"<arbetarfamiljer>"
+	"arbetarfamiljer" ?
+: 
+"<reste>"
+	"resa" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<bort>"
+	"bort" ?
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<men>"
+	"men" CC <W:0.0> @CVP
+: 
+"<det>"
+	"det" Pron Pers Sg3 <W:0.0> @X
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<lika>"
+	"lika" ?
+: 
+"<för>"
+	"för" Pr <W:0.0> @<ADVL
+: 
+"<alla>"
+	"alla" ?
+: 
+"<grannar>"
+	"grannar" ?
+: 
+"<och>"
+	"och" CC <W:0.0> @CNP
+: 
+"<skol>"
+	"skola" N <W:0.0> @X
+	 Cmp "kamrat" N Utr Pl Indef <W:0.0> "<kamrater>"
+: 
+"<därför>"
+	"därför" ?
+: 
+"<visste>"
+	"visste" ?
+: 
+"<man>"
+	"man" ?
+: 
+"<inget>"
+	"inget" ?
+: 
+"<annat>"
+	"annat" ?
+: 
+"<om>"
+	"om" CS <W:0.0> @CVP
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Mitt>"
+	"Mitt" ?
+: 
+"<sommarnöje>"
+	"sommarnöje" ?
+: 
+"<från>"
+	"från" Pr <W:0.0> @ADVL>
+: 
+"<juni>"
+	"juni" ?
+: 
+"<till>"
+	"till" Pr <W:0.0> @ADVL>
+: 
+"<augusti>"
+	"augusti" ?
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<att>"
+	"att" IM <W:0.0> @IM
+: 
+"<bada>"
+	"bada" ?
+: 
+"<i>"
+	"i" Pr <W:0.0> @X
+: 
+"<Vänern>"
+	"Vänern" N Prop Sem/Plc <W:0.0> @X
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<dit>"
+	"dit" ?
+: 
+"<man>"
+	"man" ?
+: 
+"<cyklade>"
+	"cyklade" ?
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+
+"<När>"
+	"när" CS <W:0.0> @CVP
+: 
+"<farsan>"
+	"farsan" ?
+: 
+"<fick>"
+	"få" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<semester>"
+	"semester" ?
+: 
+"<packade>"
+	"packade" ?
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<bilen>"
+	"bilen" ?
+: 
+"<och>"
+	"och" CC <W:0.0> @CNP
+: 
+"<for>"
+	"for" ?
+: 
+"<norrut>"
+	"norrut" ?
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Hos>"
+	"hos" Pr <W:0.0> @X
+: 
+"<mor>"
+	"mor" N <W:0.0> @HNOUN
+	 Cmp "mor" N Utr Sg Indef <W:0.0> "<mor>"
+: 
+"<och>"
+	"och" CC <W:0.0> @CNP
+: 
+"<morfar>"
+	"morfar" ?
+: 
+"<hjälpte>"
+	"hjälpte" ?
+: 
+"<vi>"
+	"vi" Pron Pers Pl1 Nom <W:0.0> @X
+: 
+"<alltid>"
+	"alltid" ?
+: 
+"<till>"
+	"till" Pr <W:0.0> @X
+: 
+"<med>"
+	"med" Pr <W:0.0> @X
+: 
+"<skörden>"
+	"skörden" ?
+: 
+"<på>"
+	"på" Pr <W:0.0> @X
+: 
+"<deras>"
+	"deras" ?
+: 
+"<lilla>"
+	"lilla" ?
+: 
+"<Per-Albin>"
+	"Per-Albin" ?
+"<->"
+	"-" PUNCT <W:0.0>
+"<torp>"
+	"torp" ?
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Släpade>"
+	"Släpade" ?
+: 
+"<ut>"
+	"ut" ?
+: 
+"<hässjevirke>"
+	"hässjevirke" ?
+: 
+"<på>"
+	"på" Pr <W:0.0> @X
+: 
+"<åkrarna>"
+	"åkrarna" ?
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<lånade>"
+	"lånade" ?
+: 
+"<häst>"
+	"häst" N Utr Sg Indef <W:0.0> @HNOUN
+"<,>"
+	"," CLB <W:0.0>
+: 
+"<körde>"
+	"körde" ?
+: 
+"<med>"
+	"med" Pr <W:0.0> @X
+: 
+"<släpräfsa>"
+	"släpräfsa" ?
+: 
+"<och>"
+	"och" CC <W:0.0> @CNP
+: 
+"<hässjade>"
+	"hässjade" ?
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<När>"
+	"när" CS <W:0.0> @CVP
+: 
+"<det>"
+	"det" Pron Pers Sg3 <W:0.0> @X
+: 
+"<var>"
+	"vara" V Ind Prt <W:0.0> @+FMAINV
+: 
+"<kaffe>"
+	"kaffe" N <W:0.0> @X
+	 Cmp "paus" N Utr Sg Indef <W:0.0> "<paus>"
+: 
+"<kom>"
+	"kom" ?
+: 
+"<mor>"
+	"mor" N <W:0.0> @X
+	 Cmp "mor" N Utr Sg Indef <W:0.0> "<mor>"
+: 
+"<ut>"
+	"ut" ?
+: 
+"<med>"
+	"med" Pr <W:0.0> @<ADVL
+: 
+"<kaffe>"
+	"kaffe" N Neu Sg Indef <W:0.0> @X
+: 
+"<och>"
+	"och" CC <W:0.0> @CNP
+: 
+"<en>"
+	"en" Num <W:0.0> @>N
+: 
+"<kutting>"
+	"kutting" N Utr Sg Indef <W:0.0> @X
+: 
+"<med>"
+	"med" Pr <W:0.0> @<ADVL
+: 
+"<svagdricka>"
+	"svagdricka" ?
+"<.>"
+	"." CLB <W:0.0>
+: 
+
+"<Det>"
+	"det" Pron Pers Sg3 <W:0.0> @X
+: 
+"<smakade>"
+	"smakade" ?
+: 
+"<alltid>"
+	"alltid" ?
+: 
+"<gott>"
+	"gott" ?
+: 
+"<i>"
+	"i" Pr <W:0.0> @X
+: 
+"<skuggan>"
+	"skugga" N Utr Sg Def <W:0.0> @HNOUN
+: 
+"<av>"
+	"av" Pr <W:0.0> @N<
+: 
+"<hässjan>"
+	"hässjan" ?
+"<.>"
+	"." CLB <W:0.0>
+:\n
+:\n
+:\n
+

@@ -3,7 +3,7 @@ Alphabet
 a b c d e f g h i j k l m n o p q r s t u v w x y z å ä ö
 e2
 %> ;
-
+! bdg
 
 Sets
 
@@ -20,5 +20,7 @@ e:0 <=> Vow %> _ ;
 "Save some (+N+Neu) suffix-intital e"
 e2:e <=> Vow %> _ ;
 
-"de-affix after unvoiced cns" ! Marie och Lina har försök göra regel för unvoiced rule för verb här, behöver hjälp
-! d:t <=> Unvoiced %> _ ;
+! försökte göra regel för v2
+! "de-affix after unvoiced cns" 
+! bdg:t <=> Unvoiced %> _ ;
+! bdg:d <=> Voiced %> _ ;

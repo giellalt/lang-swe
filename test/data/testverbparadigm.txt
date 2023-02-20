@@ -1,0 +1,6 @@
++V+Ind+Prs
++V+Ind+Prt
++V+Inf
++V+PrfPtc
++V+Sup
++V+Imp

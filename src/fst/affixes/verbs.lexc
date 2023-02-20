@@ -1,10 +1,11 @@
 
-LEXICON v1
-+V+Inf:%>a # ;
-+V+Ind+Prs:%>ar # ;
-+V+Ind+Prt:%>ade # ;
-+V+Sup:%>at # ;
-+V+PrfPtc:%>t # ;
+LEXICON v1 ! ropa
++V+Inf: # ;
++V+Ind+Prs:%>r # ;
++V+Ind+Prt:%>de # ;
++V+Sup:%>t # ;
++V+PrfPtc:%>d # ;
++V+Imp: # ;
 
 LEXICON v2 ! stänga
 +V+Inf:%>a # ;
@@ -12,6 +13,7 @@ LEXICON v2 ! stänga
 +V+Ind+Prt:%>de # ; ! te after unvoiced
 +V+Sup:%>t # ;
 +V+PrfPtc:%>d # ;
++V+Imp: # ;
 
 LEXICON v2b    ! söka, borde nog mergas meed v2 med morfonregel ...
 +V+Inf:%>a # ;
@@ -19,11 +21,12 @@ LEXICON v2b    ! söka, borde nog mergas meed v2 med morfonregel ...
 +V+Ind+Prt:%>te # ; ! te after unvoiced
 +V+Sup:%>t # ;
 +V+PrfPtc:%>t # ;
++V+Imp: # ;
 
-LEXICON v3
+LEXICON v3 !tro
 +V+Inf: # ;
 +V+Ind+Prs:%>r # ;
 +V+Ind+Prt:%>dde # ;
 +V+Sup:%>tt # ;
 +V+PrfPtc:%>dd # ;
-
++V+Imp: # ;

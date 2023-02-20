@@ -1,7 +1,44 @@
 
 LEXICON VerbRoot
 
-ropa:rop v1 ;
+ropa v1 ;
 ringa:ring v2 ;
 resa:res v2b ;
 tro:tro v3 ;
+söka:sök v2b ;
+läsa:läs v2b ;
+
+! Helknasiga verb
+vara+V+Inf:vara # ;
+vara+V+Ind+Prs:är # ;
+vara+V+Ind+Prt:var # ;
+vara+V+Sup:varit # ;
+vara+V+Imp:var # ;
+
+skola+V+Inf:skola # ;
+skola+V+Ind+Prs:ska # ;
+skola+V+Ind+Prs:skall # ;
+skola+V+Ind+Prt:skulle # ;
+skola+V+Sup:skolat # ;
+
+få+V+Inf:få # ;
+få+V+Ind+Prs:får # ;
+få+V+Ind+Prt:fick # ;
+få+V+Sup:fått # ;
+få+V+PrfPtc:fådd # ;
+få+V+Imp:få # ;
+
+! Oregelbundna verb
+springa+V+Inf:springa # ;
+springa+V+Ind+Prs:springer # ;
+springa+V+Ind+Prt:sprang # ;
+springa+V+Sup:sprungit # ;
+springa+V+PrfPtc:sprungen # ;
+
+ha+V+Inf:ha # ;
+ha+V+Inf:hava # ;
+ha+V+Ind+Prs:har # ;
+ha+V+Ind+Prt:hade # ;
+ha+V+Sup:haft # ;
+ha+V+PrfPtc:havd # ;
+ha+V+Imp:ha # ;
