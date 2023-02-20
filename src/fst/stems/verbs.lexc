@@ -3,5 +3,6 @@ LEXICON VerbRoot
 
 ropa:rop v1 ;
 ringa:ring v2 ;
-resa:res v2b ;
+fräsa:fräs v2 ; ! via twolc
+resa:res v2b ;  ! via lexc
 tro:tro v3 ;
