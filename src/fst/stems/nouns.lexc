@@ -13,6 +13,7 @@ källa:käll u1 ;
 resa:res u1 ;
 rundresa:rundres u1 ; ! sms?
 båt u2sms ;
+kutting u2sms ;
 
 gäst u3 ;
 utflykt u3 ;
