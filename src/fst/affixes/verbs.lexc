@@ -32,9 +32,10 @@ LEXICON v3 !tro
 +V+PrfPtc:%>dd # ;
 +V+Imp: # ;
 
-LEXICON vIAU ! finna, starka böjningar
+LEXICON vST_C  ! stark böjning, -Cns-stam: hinna, skriva
 +V+Inf:%>a # ;
 +V+Ind+Prs:%>er # ;
 +V+Ind+Prt: # ;
 +V+Sup:%>it # ;
 +V+PrfPtc:%>en # ;
+

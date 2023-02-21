@@ -106,7 +106,8 @@ e2 ! for some +N+Neu suffices starting e-
  l7 ! always l
  %^NYNAG ! Nynorsk agens lærar / lærer
 
-IAU ! stark verbböjning (tex springa)
+%^IAU ! avljud springa
+%^IEI ! avljud skriva
 
 
 !! ## Semantic tags

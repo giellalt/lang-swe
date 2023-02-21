@@ -3,7 +3,8 @@ Alphabet
 a b c d e f g h i j k l m n o p q r s t u v w x y z å ä ö
 ng
 e2
-IAU
+%^IAU
+%^IEI
 %> ;
 
 
@@ -23,13 +24,25 @@ e:0 <=> Vow %> _ ;
 "Save some (+N+Neu) suffix-intital e"
 e2:e <=> Vow %> _ ;
 
-"Böjning för vissa starka verb - i"
-IAU:i <=> _ [n g | Nas Nas] %> a # ; 
-          _ [n g | Nas Nas] %> e r # ;
+"avljud hinna - hann - hunnit: +Inf, +Prs"
+%^IAU:i <=> _ [n g | Nas:+] %> a # ; 
+            _ [n g | Nas:+] %> e r # ;
 
-"Böjning för vissa starka verb - a"
-IAU:a <=> _ [n g | Nas Nas] # ;
+"avljud hinna - hann - hunnit: +Prt"
+%^IAU:a <=> _ [n g | Nas:+] # ;
 
-"Böjning för vissa starka verb - u"
-IAU:u <=> _ [n g | Nas Nas] %> i t # ;
-          _ [n g | Nas Nas] %> e n # ;
+"avljud hinna - hann - hunnit: +Sup, +PrfPtc"
+%^IAU:u <=> _ [n g | Nas:+] %> i t # ;
+            _ [n g | Nas:+] %> e n # ;
+
+
+"avljud skriva - skrev - skrivit: +Inf, +Prs, +Sup, +PrfPtc"
+%^IEI:i <=> _ Cns %> a # ; 
+            _ Cns %> e r # ;
+            _ Cns %> i t # ;
+            _ Cns %> e n # ;
+
+"avljud skriva - skrev - skrivit: +Prt"
+%^IEI:e <=> _ Cns # ;
+
+
