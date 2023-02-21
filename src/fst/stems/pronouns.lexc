@@ -2,8 +2,8 @@
 LEXICON Pronoun
 
 Personal ;
+Indef ;
 !Reflexive ;
-!Indefinite ;
 !Interrogative ;
 !Reciprocal ;
 
@@ -16,7 +16,7 @@ LEXICON Personal
  hon+Pron+Pers+Sg3+Nom:hon # ;
  han+Pron+Pers+Sg3+Acc:han # ;
  han+Pron+Pers+Sg3+Acc:honom # ;
- hun+Pron+Pers+Sg3+Acc:hon # ;
+ hon+Pron+Pers+Sg3+Acc:henne # ;
  den+Pron+Pers+Sg3:den # ; ! Gender? -- no, only as Det Dem (?)
  det+Pron+Pers+Sg3:det # ; ! Gender? -- no, only as Det Dem (?)
   vi+Pron+Pers+Pl1+Nom:vi # ;
@@ -25,3 +25,43 @@ LEXICON Personal
   ni+Pron+Pers+Pl2+Acc:er # ;
   de+Pron+Pers+Pl3+Nom:de # ;
   de+Pron+Pers+Pl3+Acc:dem # ;
+
+LEXICON Indef
+man+Pron+Indef:man # ;
+
+
+LEXICON Reflexive 
+!! LEXICON @LEXNAME@ 
+sig+Pron+Refl+Acc:sig # ;
+
+LEXICON Reciprocal
+!! LEXICON @LEXNAME@ 
+varandra+Pron+Recipr+Acc:varandra K ;
+
+LEXICON Interrogative 
+!! LEXICON @LEXNAME@ 
+vad+Pron+Interr:vad # ;
+vem+Pron+Interr:vem K ;
+
+!! LEXICON Possessive 
+!! LEXICON @LEXNAME@ 
+!! din+Det+Poss+Utr+Sg2:din # ;
+!! din+Det+Poss+Neu+Sg2:ditt # ;
+!! din+Det+Poss+Pl2:dina # ;
+!! min+Det+Poss+Fem+Sg:mi # ;
+!! min+Det+Poss+Msc+Sg:min # ;
+!! min+Det+Poss+Pl:mine # ;
+!! min+Det+Poss+Neu+Sg:mitt # ;
+!! sin+Det+Poss+Fem+Sg3:si # ;
+!! sin+Det+Poss+Msc+Sg3:sin # ;
+!! sin+Det+Poss+Pl3:sine # ;
+!! sin+Det+Poss+Neu+Sg3:sitt # ;
+!! vår+Det+Poss+Sg1+Fem:vår # ;
+!! vår+Det+Poss+Sg1+Msc:vår # ;
+!! vår+Det+Poss+Pl1:våre # ;
+!! vår+Det+Poss+Sg1+Neu:vårt # ;
+!! hans+Det+Poss+Msc+Sg3:hans # ;
+!! hennes+Det+Poss+Fem+Sg3:hennes # ;
+!! hans/hennes+Det+Poss+Sg3:hans/hennes # ;
+!! deres+Det+Poss+Pl2:deres # ;
+!! deres+Det+Poss+Pl3:deres # ;

@@ -9,7 +9,7 @@ tro:tro v3 ;
 söka:sök v2b ;
 läsa:läs v2b ;
 
-! Helknasiga verb
+! oregelbundna verb
 vara+V+Inf:vara # ;
 vara+V+Ind+Prs:är # ;
 vara+V+Ind+Prt:var # ;
@@ -29,12 +29,31 @@ få+V+Sup:fått # ;
 få+V+PrfPtc:fådd # ;
 få+V+Imp:få # ;
 
-! Oregelbundna verb
-springa+V+Inf:springa # ;
-springa+V+Ind+Prs:springer # ;
-springa+V+Ind+Prt:sprang # ;
-springa+V+Sup:sprungit # ;
-springa+V+PrfPtc:sprungen # ;
+simma v1 ;
+simma+V+Ind+Prt:sam # ;
+
+! IAU-verb 
+
+springa:sprIAUng vIAU ;
+springa+V+Imp:spring # ;
+
+finna:fIAUnn vIAU ;
+finna+V+Imp:finn # ;
+
+hinna:hIAUnn vIAU ;
+hinna+V+Imp:hinn # ;
+
+brinna:brIAUnn vIAU ;
+brinna+V+Imp:brinn # ;
+
+vinna:vIAUnn vIAU ;
+vinna+V+Imp:vinn # ;
+
+rinna:rIAUnn vIAU ;
+rinna+V+Imp:rinn # ;
+
+spinna:spIAUnn vIAU ;
+spinna+V+Imp:spinn # ;
 
 ha+V+Inf:ha # ;
 ha+V+Inf:hava # ;
@@ -43,3 +62,4 @@ ha+V+Ind+Prt:hade # ;
 ha+V+Sup:haft # ;
 ha+V+PrfPtc:havd # ;
 ha+V+Imp:ha # ;
+

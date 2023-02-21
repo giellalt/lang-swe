@@ -23,6 +23,7 @@ LEXICON v2b    ! söka, borde nog mergas meed v2 med morfonregel ...
 +V+PrfPtc:%>t # ;
 +V+Imp: # ;
 
+
 LEXICON v3 !tro
 +V+Inf: # ;
 +V+Ind+Prs:%>r # ;
@@ -30,3 +31,10 @@ LEXICON v3 !tro
 +V+Sup:%>tt # ;
 +V+PrfPtc:%>dd # ;
 +V+Imp: # ;
+
+LEXICON vIAU ! finna, starka böjningar
++V+Inf:%>a # ;
++V+Ind+Prs:%>er # ;
++V+Ind+Prt: # ;
++V+Sup:%>it # ;
++V+PrfPtc:%>en # ;
