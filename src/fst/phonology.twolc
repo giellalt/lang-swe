@@ -3,9 +3,10 @@ Alphabet
 a b c d e f g h i j k l m n o p q r s t u v w x y z å ä ö
 ng
 e2
-%^IAU:0
-%^IEI:0
-%^ÅIÅ:0
+%^IAU:i
+%^IEI:i
+%^ÅIÅ:å
+%^IMP:0
 %> ;
 
 
@@ -25,9 +26,9 @@ e:0 <=> Vow %> _ ;
 "Save some (+N+Neu) suffix-intital e"
 e2:e <=> Vow %> _ ;
 
-"avljud hinna - hann - hunnit: +Inf, +Prs"
-%^IAU:i <=> _ [n g | Nas:+] %> a # ; 
-            _ [n g | Nas:+] %> e r # ;
+!"avljud hinna - hann - hunnit: +Inf, +Prs"
+!%^IAU:i <=> _ [n g | Nas:+] %> a # ; 
+!            _ [n g | Nas:+] %> e r # ;
 
 "avljud hinna - hann - hunnit: +Prt"
 %^IAU:a <=> _ [n g | Nas:+] # ;
@@ -37,18 +38,18 @@ e2:e <=> Vow %> _ ;
             _ [n g | Nas:+] %> e n # ;
 
 
-"avljud skriva - skrev - skrivit: +Inf, +Prs, +Sup, +PrfPtc"
-%^IEI:i <=> _ Cns %> a # ; 
-            _ Cns %> e r # ;
-            _ Cns %> i t # ;
-            _ Cns %> e n # ;
+!"avljud skriva - skrev - skrivit: +Inf, +Prs, +Sup, +PrfPtc"
+!%^IEI:i <=> _ Cns %> a # ; 
+!            _ Cns %> e r # ;
+!            _ Cns %> i t # ;
+!            _ Cns %> e n # ;
 
 "avljud skriva - skrev - skrivit: +Prt"
 %^IEI:e <=> _ Cns # ;
 
-"avljud få - fick - fått: +Inf, +Prs"
-%^ÅIÅ:å <=> _ %> [ r | t t | d d] # ; 
-            _ # ;
+!"avljud få - fick - fått: +Inf, +Prs"
+!%^ÅIÅ:å <=> _ %> [ r | t t | d d] # ; 
+!            _ # ;
 
 "avljud gå - gick - gått: +Prt"
 %^ÅIÅ:i <=> _ %> c k # ; 

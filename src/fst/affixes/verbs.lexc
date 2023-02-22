@@ -1,3 +1,38 @@
+!! # Verbböjning
+
+!! # Oregelbundna verb
+
+LEXICON VARA 
+vara+V+Inf:vara # ;
+vara+V+Ind+Prs:är # ;
+vara+V+Ind+Prt:var # ;
+vara+V+Sup:varit # ;
+vara+V+Imp:var # ;
+
+LEXICON SKOLA
+skola+V+Inf:skola # ;
+skola+V+Ind+Prs:ska # ;
+skola+V+Ind+Prs:skall # ;
+skola+V+Ind+Prt:skulle # ;
+skola+V+Sup:skolat # ;
+
+
+LEXICON HA 
+ha+V+Inf:ha # ;
+ha+V+Inf:hava # ;
+ha+V+Ind+Prs:har # ;
+ha+V+Ind+Prt:hade # ;
+ha+V+Sup:haft # ;
+ha+V+PrfPtc:havd # ;
+ha+V+Imp:ha # ;
+
+LEXICON SIMMA
+simma v1 ;
+simma+V+Ind+Prt:sam # ;
+
+
+!! # Regelbundna verb
+
 
 LEXICON v1 ! ropa
 +V+Inf: # ;
@@ -38,6 +73,7 @@ LEXICON vST_C  ! stark böjning, -Cns-stam: hinna, skriva
 +V+Ind+Prt: # ;
 +V+Sup:%>it # ;
 +V+PrfPtc:%>en # ;
++V+Imp:^IMP # ;
 
 LEXICON v_ÅIÅ ! lägg till particip i stems
 +V+Inf: # ;

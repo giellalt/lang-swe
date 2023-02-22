@@ -1,5 +1,15 @@
 
 LEXICON VerbRoot
+!! **LEXICON @LEXNAME@** innehålder alle verblemman
+
+!! # oregelbundna verb
+
+vara: VARA ;
+skola: SKOLA ;
+ha: HA ;
+simma: SIMMA ;
+
+!! # Regelbundna verb
 
 ropa v1 ;
 ringa:ring v2 ;
@@ -9,66 +19,42 @@ tro:tro v3 ;
 söka:sök v2b ;
 läsa:läs v2b ;
 
-! oregelbundna verb
-vara+V+Inf:vara # ;
-vara+V+Ind+Prs:är # ;
-vara+V+Ind+Prt:var # ;
-vara+V+Sup:varit # ;
-vara+V+Imp:var # ;
-
-skola+V+Inf:skola # ;
-skola+V+Ind+Prs:ska # ;
-skola+V+Ind+Prs:skall # ;
-skola+V+Ind+Prt:skulle # ;
-skola+V+Sup:skolat # ;
-
-simma v1 ;
-simma+V+Ind+Prt:sam # ;
-
-ha+V+Inf:ha # ;
-ha+V+Inf:hava # ;
-ha+V+Ind+Prs:har # ;
-ha+V+Ind+Prt:hade # ;
-ha+V+Sup:haft # ;
-ha+V+PrfPtc:havd # ;
-ha+V+Imp:ha # ;
-
 
 ! stark böjning IAU
 
 springa:spr%^IAUng vST_C ;
-springa+V+Imp:spring # ;
+!springa+V+Imp:spring # ;
 
 finna:f%^IAUnn vST_C ;
-finna+V+Imp:finn # ;
+!finna+V+Imp:finn # ;
 
 hinna:h%^IAUnn vST_C ;
-hinna+V+Imp:hinn # ;
+!hinna+V+Imp:hinn # ;
 
 brinna:br%^IAUnn vST_C ;
-brinna+V+Imp:brinn # ;
+!brinna+V+Imp:brinn # ;
 
 vinna:v%^IAUnn vST_C ;
-vinna+V+Imp:vinn # ;
+!vinna+V+Imp:vinn # ;
 
 rinna:r%^IAUnn vST_C ;
-rinna+V+Imp:rinn # ;
+!rinna+V+Imp:rinn # ;
 
 spinna:sp%^IAUnn vST_C ;
-spinna+V+Imp:spinn # ;
+!spinna+V+Imp:spinn # ;
 
 ! stark böjning IEI
 bita:b%^IEIt vST_C ;
-bita+V+Imp:bit # ;
+!bita+V+Imp:bit # ;
 
 gnida:gn%^IEId vST_C ;
-gnida+V+Imp:gnid # ;
+!gnida+V+Imp:gnid # ;
 
 skriva:skr%^IEIv vST_C ;
-skriva+V+Imp:skriv # ;
+!skriva+V+Imp:skriv # ;
 
 skita:sk%^IEIt vST_C ;
-skita+V+Imp:skit # ;
+!skita+V+Imp:skit # ;
 
 bliva:bl%^IEIv vST_C ;
 bliva+V+Imp:bliv # ;
