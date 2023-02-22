@@ -14,7 +14,7 @@ Tests:
 # Then: run analyser, then correct. 
 
 
-  Verb - antaa - ok : # Verb 'to live' - ei tsekattu!
+  Noun - flicka - ok : # Verb 'to live' - ei tsekattu!
      flicka+N+Utr+Sg+Indef: flicka
      flicka+N+Utr+Sg+Def: flickan
      flicka+N+Utr+Pl+Indef: flickor
