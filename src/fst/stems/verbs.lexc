@@ -40,13 +40,6 @@ ha+V+Sup:haft # ;
 ha+V+PrfPtc:havd # ;
 ha+V+Imp:ha # ;
 
-bli+V+Inf:bli # ;
-bli+V+Inf:bliva # ;
-bli+V+Ind+Prs:blir # ;
-bli+V+Ind+Prt:blev # ;
-bli+V+Sup:blivit # ;
-bli+V+PrfPtc:bliven # ;
-bli+V+Imp:bli # ;
 
 ! stark böjning IAU
 
@@ -84,3 +77,8 @@ skriva+V+Imp:skriv # ;
 skita:sk%^IEIt vST_C ;
 skita+V+Imp:skit # ;
 
+bliva:bl%^IEIv vST_C ;
+bliva+V+Imp:bliv # ;
+bliva+V+Imp:bli # ;
+bli+V+Inf:bli # ;
+bli+V+Ind+Prs:blir # ;
