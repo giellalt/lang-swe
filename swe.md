@@ -179,6 +179,18 @@ These were the set types.
 
 ---
 
+# Verbböjning
+
+# Oregelbundna verb
+
+# Regelbundna verb
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-swe/blob/main/src/fst/affixes/verbs.lexc)</small>
+
+---
+
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Swedish
 
@@ -310,6 +322,19 @@ LEXICON Interrogative
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/stems/pronouns.lexc](https://github.com/giellalt/lang-swe/blob/main/src/fst/stems/pronouns.lexc)</small>
+
+---
+
+
+**LEXICON VerbRoot** innehålder alle verblemman
+
+# oregelbundna verb
+
+# Regelbundna verb
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/verbs.lexc](https://github.com/giellalt/lang-swe/blob/main/src/fst/stems/verbs.lexc)</small>
 
 ---
 
