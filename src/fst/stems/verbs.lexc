@@ -22,13 +22,6 @@ skola+V+Ind+Prs:skall # ;
 skola+V+Ind+Prt:skulle # ;
 skola+V+Sup:skolat # ;
 
-få+V+Inf:få # ;
-få+V+Ind+Prs:får # ;
-få+V+Ind+Prt:fick # ;
-få+V+Sup:fått # ;
-få+V+PrfPtc:fådd # ;
-få+V+Imp:få # ;
-
 simma v1 ;
 simma+V+Ind+Prt:sam # ;
 
@@ -82,3 +75,10 @@ bliva+V+Imp:bliv # ;
 bliva+V+Imp:bli # ;
 bli+V+Inf:bli # ;
 bli+V+Ind+Prs:blir # ;
+
+! Stark böjning ÅIÅ
+få:f%^ÅIÅ v_ÅIÅ ;
+få+V+PrfPtc:fådd # ;
+
+gå:g%^ÅIÅ v_ÅIÅ ;
+gå+V+PrfPtc:gången # ;

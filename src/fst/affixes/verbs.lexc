@@ -39,3 +39,10 @@ LEXICON vST_C  ! stark böjning, -Cns-stam: hinna, skriva
 +V+Sup:%>it # ;
 +V+PrfPtc:%>en # ;
 
+LEXICON v_ÅIÅ ! lägg till particip i stems
++V+Inf: # ;
++V+Ind+Prs:%>r # ;
++V+Ind+Prt:%>ck # ;
++V+Sup:%>tt # ;
+! +V+PrfPtc:%>dd # ;
++V+Imp: # ;

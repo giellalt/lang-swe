@@ -43,24 +43,29 @@ LEXICON Interrogative
 !! LEXICON @LEXNAME@ 
 vad+Pron+Interr:vad # ;
 vem+Pron+Interr:vem K ;
+vilka+Pron+Interr:vilka # ;
 
-LEXICON Possessive
-din+Det+Poss+Utr+Sg2:din # ;
-din+Det+Poss+Neu+Sg2:ditt # ;
-din+Det+Poss+Pl2:dina # ;
+LEXICON Possessive ! Vad ska de ha för grundform?
+jag+Det+Poss+Sg1+Utr:min # ; 
+jag+Det+Poss+Sg1+Neu:mitt # ;
+jag+Det+Poss+Sg1+Pl:mina # ;
 
-min+Det+Poss+Utr+Sg:min # ;
-min+Det+Poss+Neu+Sg:mitt # ;
-min+Det+Poss+Pl:mina # ;
+du+Det+Poss+Sg2+Utr:din # ;
+du+Det+Poss+Sg2+Neu:ditt # ;
+du+Det+Poss+Sg2+Pl:dina # ;
 
-sin+Det+Poss+Utr+Sg3:sin # ;
-sin+Det+Poss+Neu+Sg3:sitt # ;
-sin+Det+Poss+Pl3:sina # ;
+sig+Det+Refl+Poss+Sg3+Utr:sin # ;
+sig+Det+Refl+Poss+Sg3+Neu:sitt # ;
+sig+Det+Refl+Poss+Sg3+Pl:sina # ;
 
-vår+Det+Poss+Sg1+Utr:vår # ;
-vår+Det+Poss+Sg1+Neu:vårt # ;
-vår+Det+Poss+Pl1:våra# ;
+vi+Det+Poss+Pl1+Utr:vår # ;
+vi+Det+Poss+Pl1+Neu:vårt # ;
+vi+Det+Poss+Pl1+Pl:våra # ;
 
-hans+Det+Poss+Msc+Sg3:hans # ;
-hennes+Det+Poss+Fem+Sg3:hennes # ;
-deras+Det+Poss+Pl2:deras # ;
+ni+Det+Poss+Pl2+Utr:er # ;
+ni+Det+Poss+Pl2+Neu:ert # ;
+ni+Det+Poss+Pl2+Pl:era # ;
+
+han+Det+Poss+Sg3+Msc:hans # ;
+hon+Det+Poss+Sg3+Fem:hennes # ;
+de+Det+Poss+Pl3+Pl:deras # ;

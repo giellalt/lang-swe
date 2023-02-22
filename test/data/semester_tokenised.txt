@@ -157,7 +157,7 @@
 : 
 
 "<Min>"
-	"Min" ?
+	"min" Det Poss Utr Sg <W:0.0> @X
 : 
 "<morbror>"
 	"morbror" ?
@@ -236,7 +236,7 @@
 	"i" Pr <W:0.0> @<ADVL
 : 
 "<sig>"
-	"sig" ?
+	"sig" Pron Refl Acc <W:0.0> @X
 : 
 "<själv>"
 	"själv" ?
@@ -245,16 +245,16 @@
 	"så" CS <W:0.0> @CVP
 : 
 "<med>"
-	"med" Pr <W:0.0> @X
+	"med" Pr <W:0.0> @ADVL>
 : 
 "<kläder>"
 	"kläder" N Utr Pl Indef <W:0.0> @X
 : 
 "<i>"
-	"i" Pr <W:0.0> @X
+	"i" Pr <W:0.0> @ADVL>
 : 
 "<blev>"
-	"blev" ?
+	"bliva" V Ind Prt <W:0.0> @+FMAINV
 : 
 "<den>"
 	"den" Pron Pers Sg3 <W:0.0> @X
@@ -483,7 +483,7 @@
 	"vara" V Ind Prt <W:0.0> @+FMAINV
 : 
 "<sin>"
-	"sin" ?
+	"sin" Det Poss Utr Sg3 <W:0.0> @>N
 : 
 "<liten>"
 	"liten" ?
@@ -501,10 +501,10 @@
 	"lär" ?
 : 
 "<man>"
-	"man" ?
+	"man" Pron Indef <W:0.0> @X
 : 
 "<sig>"
-	"sig" ?
+	"sig" Pron Refl Acc <W:0.0> @X
 : 
 "<något>"
 	"något" ?
@@ -600,7 +600,7 @@
 	"låg" ?
 : 
 "<man>"
-	"man" ?
+	"man" Pron Indef <W:0.0> @X
 : 
 "<över>"
 	"över" Pr <W:0.0> @X
@@ -645,7 +645,7 @@
 	"Vättern" N Prop Sem/Plc <W:0.0> @X
 : 
 "<runt>"
-	"runt" Pr <W:0.0> @X
+	"runt" Pr <W:0.0> @ADVL>
 "<,>"
 	"," CLB <W:0.0>
 : 
@@ -656,7 +656,7 @@
 	"startade" ?
 : 
 "<från>"
-	"från" Pr <W:0.0> @X
+	"från" Pr <W:0.0> @ADVL>
 : 
 "<Lindome>"
 	"Lindome" N Prop Sem/Plc <W:0.0> @X
@@ -670,7 +670,7 @@
 	"vi" Pron Pers Pl1 Acc <W:0.0> @X
 : 
 "<på>"
-	"på" Pr <W:0.0> @X
+	"på" Pr <W:0.0> @ADVL>
 : 
 "<backiga>"
 	"backiga" ?
@@ -682,19 +682,19 @@
 	"först" ?
 : 
 "<till>"
-	"till" Pr <W:0.0> @X
+	"till" Pr <W:0.0> @ADVL>
 : 
 "<Borås>"
 	"Borås" N Prop Sem/Plc <W:0.0> @X
 : 
 "<och>"
-	"och" CC <W:0.0> @CNP
+	"och" CC <W:0.0> @CVP @CNP
 : 
 "<Jönköping>"
 	"Jönköping" N Prop Sem/Plc <W:0.0> @X
 : 
 "<till>"
-	"till" Pr <W:0.0> @X
+	"till" Pr <W:0.0> @ADVL>
 : 
 "<Ulricehamn>"
 	"Ulricehamn" N Prop Sem/Plc <W:0.0> @X
@@ -706,13 +706,13 @@
 	"vi" Pron Pers Pl1 Nom <W:0.0> @X
 : 
 "<blev>"
-	"blev" ?
+	"bliva" V Ind Prt <W:0.0> @+FMAINV
 : 
 "<bjudna>"
 	"bjudna" ?
 : 
 "<på>"
-	"på" Pr <W:0.0> @X
+	"på" Pr <W:0.0> @<ADVL
 : 
 "<middag>"
 	"middag" ?
@@ -724,7 +724,7 @@
 	"övernattning" ?
 : 
 "<hos>"
-	"hos" Pr <W:0.0> @X
+	"hos" Pr <W:0.0> @<ADVL
 : 
 "<en>"
 	"en" Num <W:0.0> @X
@@ -733,13 +733,13 @@
 	"släkting" ?
 : 
 "<till>"
-	"till" Pr <W:0.0> @X
+	"till" Pr <W:0.0> @<ADVL
 : 
 "<en>"
 	"en" Num <W:0.0> @X
 : 
 "<av>"
-	"av" Pr <W:0.0> @X
+	"av" Pr <W:0.0> @<ADVL
 : 
 "<flickorna>"
 	"flicka" N Utr Pl Def <W:0.0> @X
@@ -762,22 +762,22 @@
 	"," CLB <W:0.0>
 : 
 "<men>"
-	"men" CC <W:0.0> @CNP
+	"men" CC <W:0.0> @CVP @CNP
 : 
 "<efter>"
-	"efter" Pr <W:0.0> @X
+	"efter" Pr <W:0.0> @ADVL>
 : 
 "<middag>"
 	"middag" ?
 : 
 "<och>"
-	"och" CC <W:0.0> @CNP
+	"och" CC <W:0.0> @CVP
 : 
 "<dusch>"
 	"dusch" ?
 : 
 "<gick>"
-	"gick" ?
+	"gå" V Ind Prt <W:0.0> @+FMAINV
 : 
 "<vi>"
 	"vi" Pron Pers Pl1 Nom <W:0.0> @X
@@ -786,13 +786,13 @@
 	"ut" ?
 : 
 "<på>"
-	"på" Pr <W:0.0> @X
+	"på" Pr <W:0.0> @<ADVL
 : 
 "<dans>"
 	"dans" ?
 : 
 "<till>"
-	"till" Pr <W:0.0> @X
+	"till" Pr <W:0.0> @<ADVL
 : 
 "<Folkets>"
 	"Folkets" ?
@@ -801,7 +801,7 @@
 	"Park" ?
 : 
 "<på>"
-	"på" Pr <W:0.0> @X
+	"på" Pr <W:0.0> @<ADVL
 : 
 "<kvällen>"
 	"kvällen" ?
@@ -1009,7 +1009,7 @@
 	"att" IM <W:0.0> @IM
 : 
 "<man>"
-	"man" ?
+	"man" Pron Indef <W:0.0> @X
 : 
 "<var>"
 	"vara" V Ind Prt <W:0.0> @+FMAINV
@@ -1109,7 +1109,7 @@
 	"visste" ?
 : 
 "<man>"
-	"man" ?
+	"man" Pron Indef <W:0.0> @X
 : 
 "<inget>"
 	"inget" ?
@@ -1124,7 +1124,7 @@
 : 
 
 "<Mitt>"
-	"Mitt" ?
+	"min" Det Poss Neu Sg <W:0.0> @X
 : 
 "<sommarnöje>"
 	"sommarnöje" ?
@@ -1162,7 +1162,7 @@
 	"dit" ?
 : 
 "<man>"
-	"man" ?
+	"man" Pron Indef <W:0.0> @X
 : 
 "<cyklade>"
 	"cyklade" ?
@@ -1239,7 +1239,7 @@
 	"på" Pr <W:0.0> @X
 : 
 "<deras>"
-	"deras" ?
+	"deras" Det Poss Pl2 <W:0.0> @X
 : 
 "<lilla>"
 	"lilla" ?

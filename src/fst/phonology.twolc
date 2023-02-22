@@ -3,8 +3,9 @@ Alphabet
 a b c d e f g h i j k l m n o p q r s t u v w x y z å ä ö
 ng
 e2
-%^IAU
-%^IEI
+%^IAU:0
+%^IEI:0
+%^ÅIÅ:0
 %> ;
 
 
@@ -45,4 +46,9 @@ e2:e <=> Vow %> _ ;
 "avljud skriva - skrev - skrivit: +Prt"
 %^IEI:e <=> _ Cns # ;
 
+"avljud få - fick - fått: +Inf, +Prs"
+%^ÅIÅ:å <=> _ %> [ r | t t | d d] # ; 
+            _ # ;
 
+"avljud gå - gick - gått: +Prt"
+%^ÅIÅ:i <=> _ %> c k # ; 
