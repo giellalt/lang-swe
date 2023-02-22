@@ -1,0 +1,23 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Verb - brinna - ok : # 
+    brinna+V+Inf: brinna
+    brinna+V+Ind+Prs: brinner
+    brinna+V+Ind+Prt: brann
+    brinna+V+Sup: brunnit
+    brinna+V+PrfPtc: brunnen
+    brinna+V+Imp: brinn
