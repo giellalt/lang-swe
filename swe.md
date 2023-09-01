@@ -326,7 +326,7 @@ LEXICON Interrogative
 ---
 
 
-**LEXICON VerbRoot** innehålder alle verblemman
+**LEXICON VerbRoot** innehåller alla verblemman
 
 # oregelbundna verb
 
