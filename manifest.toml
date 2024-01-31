@@ -1,6 +1,18 @@
 name = "Swedish"
 version = "0.1.1"
 
+# Name of the speller package in various languages.
+# The default is English + autonym:
+[speller.name]
+en = "Swedish spellchecker"
+sv = "Autonym spellchecker"
+
+# Description of the speller package in various languages.
+# The default is English + autonym:
+[speller.description]
+en = "A spellchecker for Swedish, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
+sv = "TRANSLATE: A spellchecker for Swedish, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
+
 [macos]
 system_pkg_id = "no.divvun.MacDivvun.sv"
 
