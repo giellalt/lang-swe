@@ -4,8 +4,15 @@
     * `fst/`
         * `morphology/`
             * `affixes/`
+                * [symbols.lexc](src-fst-morphology-affixes-symbols.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/morphology/affixes/symbols.lexc))
+                * [verbs.lexc](src-fst-morphology-affixes-verbs.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/morphology/affixes/verbs.lexc))
             * [root.lexc](src-fst-morphology-root.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/morphology/root.lexc))
             * `stems/`
+                * [conjunctions.lexc](src-fst-morphology-stems-conjunctions.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/morphology/stems/conjunctions.lexc))
+                * [nouns.lexc](src-fst-morphology-stems-nouns.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/morphology/stems/nouns.lexc))
+                * [prepositions.lexc](src-fst-morphology-stems-prepositions.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/morphology/stems/prepositions.lexc))
+                * [pronouns.lexc](src-fst-morphology-stems-pronouns.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/morphology/stems/pronouns.lexc))
+                * [verbs.lexc](src-fst-morphology-stems-verbs.lexc.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/morphology/stems/verbs.lexc))
         * `phonetics/`
             * [txt2ipa.xfscript](src-fst-phonetics-txt2ipa.xfscript.html) ([src](https://github.com/giellalt/lang-swe/blob/main/src/fst/phonetics/txt2ipa.xfscript))
         * `transcriptions/`
