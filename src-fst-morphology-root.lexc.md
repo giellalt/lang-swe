@@ -66,6 +66,3 @@ Basic lexica, pointing to the other lexicon files
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-swe/blob/main/src/fst/morphology/root.lexc)</small>
-
----
-

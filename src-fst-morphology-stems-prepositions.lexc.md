@@ -16,6 +16,3 @@ ska man göra nåt här för till sjöss, till mötes etc?
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/prepositions.lexc](https://github.com/giellalt/lang-swe/blob/main/src/fst/morphology/stems/prepositions.lexc)</small>
-
----
-
