@@ -4,12 +4,16 @@ The Swedish morphology and tools
 [![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-swe%2Fgh-pages%2Fmaturity.json)](https://giellalt.github.io/MaturityClassification.html)
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-swe%2Fgh-pages%2Flemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-swe/main/badge.svg)](https://github.com/giellalt/lang-swe/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/blob/main/LICENSE-LGPL)
+[![License: LGPL](https://img.shields.io/github/license/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/blob/main/LICENSE-LGPL)
 OR
 [![License: CC BY 3.0](https://img.shields.io/badge/License-CC%20BY%203.0-lightgrey.svg)](https://github.com/giellalt/lang-swe/blob/main/LICENSE-CC-BY)
-[![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-swe?platform=desktop&channel=nightly)
-[![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-swe?platform=mbile&channel=nightly)
+[![Doc Build Status](https://github.com/giellalt/lang-swe/workflows/Docs/badge.svg)](https://github.com/giellalt/lang-swe/actions)
+[![CI/CD Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-swe/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-swe/main/latest)
+
+Download nightly / CI/CD zhfst files for testing:
+[![Windows](https://img.shields.io/badge/download%40latest-Windows--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-swe?platform=windows&channel=nightly)
+[![MacOS](https://img.shields.io/badge/download%40latest-macOS--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-swe?platform=macos&channel=nightly)
+[![Mobile](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-swe?platform=mobile&channel=nightly)
 
 This repository contains finite state source files for the Swedish language,
 for building morphological analysers, proofing tools
@@ -51,7 +55,7 @@ dictionaries, you need:
 - an FST compiler: [HFST](https://github.com/hfst/hfst), [Foma](https://github.com/mhulden/foma) or [Xerox Xfst](https://web.stanford.edu/~laurik/fsmbook/home.html)
 - [VislCG3](https://visl.sdu.dk/svn/visl/tools/vislcg3/trunk) Constraint Grammar tools
 
-To install VislCG3 and HFST, just copy/paste this into your Terminal on **Mac OS X**:
+To install VislCG3 and HFST, just copy/paste this into your Terminal on **macOS**:
 
 ```
 curl https://apertium.projectjj.com/osx/install-nightly.sh | sudo bash
