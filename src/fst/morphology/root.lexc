@@ -44,7 +44,7 @@ Multichar_Symbols !!= * @CODE@
  +Inf +PrsPtc +PrfPtc
  +Interj +Intens
  +Prop +Fem +Sem/Mal +Sem/Plc +Sem/Org +Sem/Ani
- +CLB +PUNCT +HYPH +LEFT +RIGHT
+ +CLB +PUNCT +HYPH +LEFT +RIGHT +MIDDLE
  +Cmp+
  +CmpS+
  +Qnt ! quantifier noen, begge
