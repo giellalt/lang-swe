@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-swe?label=CI)](https://builds.giellalt.org/pipelines/lang-swe/builds/latest)
-[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the **Swedish language model**. 
 
