@@ -4,7 +4,8 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-swe%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-swe/main/badge.svg)](https://github.com/giellalt/lang-swe/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-swe?label=CI)](https://builds.giellalt.org/pipelines/lang-swe/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/swed1254)
 
 This page documents the work on the **Swedish language model**. 
 
