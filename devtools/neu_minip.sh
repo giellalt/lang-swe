@@ -27,7 +27,7 @@ do
  for form in $(cat $P_FILE);
  do
 #  echo "${lemma}${form}" | $LOOKUP $GTLANGS/lang-swe/src/generator-gt-norm.xfst
-  echo "${lemma}${form}" | $HLOOKUP $GTLANGS/lang-swe/src/generator-gt-norm.hfstol
+  echo "${lemma}${form}" | $HLOOKUP $GTLANGS/lang-swe/src/fst/generator-gt-norm.hfstol
  done
  rm -f $L_FILE
 done
