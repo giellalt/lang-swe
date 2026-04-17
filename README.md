@@ -1,14 +1,14 @@
 The Swedish morphology and tools
 ==========================================
 
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-swe%2Fgh-pages%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-swe%2Fgh-pages%2Fbadgedata%2Ffst-lemmacount.json)
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-swe%2Fmain%2Fdocs%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-swe%2Fmain%2Fdocs%2Fbadgedata%2Ffst-lemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/issues)
 [![License: LGPL](https://img.shields.io/github/license/giellalt/lang-swe)](https://github.com/giellalt/lang-swe/blob/main/LICENSE-LGPL)
 OR
 [![License: CC BY 3.0](https://img.shields.io/badge/License-CC%20BY%203.0-lightgrey.svg)](https://github.com/giellalt/lang-swe/blob/main/LICENSE-CCBY)
-[![Doc Build Status](https://github.com/giellalt/lang-swe/workflows/Docs/badge.svg)](https://github.com/giellalt/lang-swe/actions)
-[![CI/CD Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-swe/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-swe/main/latest)
+[![Doc build](https://img.shields.io/github/actions/workflow/status/giellalt/lang-swe/docs.yml?logo=github&label=DocCI)](https://github.com/giellalt/lang-swe/actions/workflows/docs.yml)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-swe?logo=buildkite&label=CoreCI)](https://builds.giellalt.org/pipelines/lang-swe/builds/latest)
 
 Download nightly / CI/CD installation packages for testing (contains the core zhfst file(s)):
 
